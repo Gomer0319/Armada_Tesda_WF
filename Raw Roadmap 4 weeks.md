@@ -16,19 +16,20 @@
   - Lists, and Tables
   - Knowledge Check: Identify errors in basic HTML code
 
-- **Day 3: PCS Relationship (Hierarchy), Semantic HTML, and Best Practices**
+- **Day 3: Forms and Media**
+  - Form Elements: Inputs, Buttons, Select, Textarea
+  - *(Extra)* Multimedia Integration: Audio and Video
+  - Knowledge Check: Match form elements to their appropriate use cases
+
+- **Day 4: PCS Relationship (Hierarchy), Semantic HTML, and Best Practices**
   - Parent/Child/Sibling Relationship
   - Semantic HTML and its Importance
   - Best Practices for HTML (clean, accessible, and well-structured code)
   - Knowledge Check: Implement semantic HTML correctly
 
-- **Day 4: Forms and Media**
-  - Form Elements: Inputs, Buttons, Select, Textarea
-  - *(Extra)* Multimedia Integration: Audio and Video
-  - Knowledge Check: Match form elements to their appropriate use cases
 
 - **Day 5: Mini Project 1**
-  - Build a "Personal Portfolio" webpage using HTML. (Should apply Best practices like use of Semantics and PCS relationship)
+  - Build a "Personal Portfolio" webpage using HTML.
   - *Peer Review and Feedback*
 
 ---
