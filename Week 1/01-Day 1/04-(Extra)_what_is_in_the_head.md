@@ -1,4 +1,4 @@
-### **What's in the <head>?**
+### **(Extra) What's in the Head?**
 
 #### **Developmental Outcome**
 By the end of this lesson, learners will:

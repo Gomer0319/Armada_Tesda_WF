@@ -1,4 +1,4 @@
-### **What is HTML and Its Structure**
+### **HTML and Its Structure**
 
 #### **Developmental Outcome**
 By the end of this lesson, learners will:

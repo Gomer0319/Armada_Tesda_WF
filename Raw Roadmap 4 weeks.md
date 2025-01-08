@@ -42,7 +42,7 @@
   - Knowledge Check: Match selectors to their output
 
 - **Day 2: CSS Box Model and Layout Basics**
-  - Understanding the Box Model (Margin, Border, Padding)
+  - Understanding the Box Model (Margin, Border, Padding, Content)
   - Positioning Elements (Static, Relative, Absolute, Fixed)
   - Knowledge Check: Solve layout puzzles
 

@@ -1,6 +1,4 @@
-
-
-### **HTML Attributes: Key to Customizing Web Elements**
+### **(Extra) HTML Attributes: Key to Customizing Web Elements**
 
 #### **Developmental Outcome**
 By the end of this lesson, learners will:

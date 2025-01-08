@@ -5,21 +5,16 @@
 - Selectors and Properties: Targeting elements to apply styles.  
 - Adding Style: Working with fonts, colors, and sizes.  
 - *(Extra)* Exploring color formats: Hex, RGB, and HSL.  
-- **Knowledge Check:** Match selectors to their output.  
+- Knowledge Check  
 
 #### **Day 2: CSS Box Model and Layout Basics**  
-- Understanding the Box Model:  
-  - Components: Margin, Border, Padding, and Content.  
-  - Visualizing how elements occupy space on the webpage.  
+- - Understanding the Box Model (Margin, Border, Padding, Content) 
 - Positioning Elements:  
   - Static, Relative, Absolute, and Fixed positioning explained.  
 - *(Extra)* Display Property: Inline, Block, and Inline-Block behavior.  
 - **Knowledge Check:** Solve layout puzzles using the Box Model concepts.  
 
-#### **Day 3: Responsive Design Basics**  
-- What is Responsive Design?  
-- Using Media Queries to adapt layouts to different screen sizes.  
-- Fluid Layouts: Working with percentages instead of fixed units.  
+#### **Day 3: Responsive Design Basics**    
 - Introduction to Flexbox: Aligning and distributing space in a container.  
 - *(Extra)* Experimenting with viewport units (e.g., `vh`, `vw`).  
 - **Knowledge Check:** Create a responsive page layout using media queries.  
