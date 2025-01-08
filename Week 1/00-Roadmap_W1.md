@@ -1,5 +1,5 @@
 ### **Week 1 Roadmap:**
-- **Day 1: Exploring the Web and Intro to HTML**
+**Day 1: Exploring the Web and Intro to HTML**
   - What is Web Development?
   - Overview of the Web: Frontend vs Backend
   - Tools Setup: Code Editor (e.g., VS Code), Browsers, and DevTools
@@ -7,25 +7,25 @@
   - *(Extra)* What's in the Head?
   - Knowledge Check: Basics of how the web works
 
-- **Day 2: HTML Basics: The Body, Elements and Common Tags**
+**Day 2: HTML Basics: The Body, Elements and Common Tags**
   - The Body, HTML Elements, Understanding Tags, Attributes, and Content
   - *(Extra)* HTML Attributes: Key to Customizing Web Elements
   - Common Tags: Headings, Paragraphs, Links, Images
   - Lists, and Tables
   - Knowledge Check: Identify errors in basic HTML code
 
-- **Day 3: Forms and Media**
+**Day 3: Forms and Media**
   - Form Elements: Inputs, Buttons, Select, Textarea
   - *(Extra)* Multimedia Integration: Audio and Video
   - Knowledge Check: Match form elements to their appropriate use cases
 
-- **Day 4: PCS Relationship (Hierarchy), Semantic HTML, and Best Practices**
+**Day 4: PCS Relationship (Hierarchy), Semantic HTML, and Best Practices**
   - Parent/Child/Sibling Relationship
   - Semantic HTML and its Importance
   - Best Practices for HTML (clean, accessible, and well-structured code)
   - Knowledge Check: Implement semantic HTML correctly
 
-- **Day 5: Mini Project 1**
+**Day 5: Mini Project 1**
   - Build a "Personal Portfolio" webpage using HTML.
   - *Peer Review and Feedback*
 
