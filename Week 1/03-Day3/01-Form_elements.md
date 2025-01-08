@@ -8,7 +8,7 @@ By the end of this lesson, learners will:
 
 ---
 
-#### **Introduction: Why Do We Use Forms on Websites?**
+#### **Why Do We Use Forms on Websites?**
 
 Forms are everywhere on the web! From logging in to subscribing to a newsletter or filling out a survey, forms are the main way we interact with websites. Forms answer a crucial problem: **How do we collect information from users?** Without forms, websites wouldn’t be able to process things like orders, feedback, or even registration.
 
@@ -18,9 +18,9 @@ In this lesson, we’ll dive into the common form elements you’ll encounter an
 
 ---
 
-#### **Main Content: Exploring Forms and Their Elements**
+#### **Exploring Forms and Their Elements**
 
-##### **1. What is an HTML Form?**
+##### **1. HTML Form**
 
 An HTML form is a section of a webpage that allows users to input data and send it to a server for processing. Forms are created using the `<form>` tag, and inside it, we place various **form elements** that collect different types of data.
 
