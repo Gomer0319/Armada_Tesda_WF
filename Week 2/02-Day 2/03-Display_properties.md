@@ -1,4 +1,4 @@
-### **Lesson: Unboxing the Display Property: Inline, Block, and Inline-Block**
+### **Unboxing the Display Property: Inline, Block, and Inline-Block**
 
 #### **Developmental Outcomes**  
 By the end of this lesson, learners will:  

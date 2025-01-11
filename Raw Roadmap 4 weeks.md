@@ -42,14 +42,16 @@
   - Knowledge Check: Match selectors to their output
 
 - **Day 2: CSS Box Model and Layout Basics**
-  - Understanding the Box Model (Margin, Border, Padding, Content)
-  - Positioning Elements (Static, Relative, Absolute, Fixed)
-  - Knowledge Check: Solve layout puzzles
+  - Understanding the Box Model (Margin, Border, Padding, Content) 
+  - Positioning Elements:  
+    - Static, Relative, Absolute, and Fixed positioning explained.  
+  - Display Property Basics: Inline, Block, and Inline-Block behavior.  
+  - Knowledge Check
 
-- **Day 3: Responsive Design Basics**
-  - Media Queries and Fluid Layouts
-  - Introduction to Flexbox
-  - Knowledge Check: Create a responsive page layout
+- **Day 3: Layouts and Flexbox**
+  - Layouts and Fluid Layout
+  - Introduction to Flexbox and Flexbox Techniques
+  - Knowledge Check
 
 - **Day 4: Specificity, Combinators and Pseudoclasses**
   - CSS Specificity

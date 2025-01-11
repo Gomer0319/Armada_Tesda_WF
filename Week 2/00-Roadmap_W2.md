@@ -7,17 +7,17 @@
 - *(Extra)* Exploring color formats: Hex, RGB, and HSL.  
 - Knowledge Check  
 
-#### **Day 2: CSS Box Model and Layout Basics**  
-- - Understanding the Box Model (Margin, Border, Padding, Content) 
-- Positioning Elements:  
-  - Static, Relative, Absolute, and Fixed positioning explained.  
-- *(Extra)* Display Property: Inline, Block, and Inline-Block behavior.  
-- **Knowledge Check:** Solve layout puzzles using the Box Model concepts.  
+#### **Day 2: CSS Box Model and Layout Basics**
+  - Understanding the Box Model (Margin, Border, Padding, Content) 
+  - Positioning Elements:  
+    - Static, Relative, Absolute, and Fixed positioning explained.  
+  - Display Property Basics: Inline, Block, and Inline-Block behavior.  
+  - Knowledge Check
 
-#### **Day 3: Responsive Design Basics**    
-- Introduction to Flexbox: Aligning and distributing space in a container.  
-- *(Extra)* Experimenting with viewport units (e.g., `vh`, `vw`).  
-- **Knowledge Check:** Create a responsive page layout using media queries.  
+#### **Day 3: Layouts and Flexbox**
+  - Layouts and Fluid Layout
+  - Introduction to Flexbox and Flexbox Techniques
+  - Knowledge Check
 
 #### **Day 4: Specificity, Combinators, and Pseudoclasses**  
 - CSS Specificity: Understanding how CSS rules are prioritized.  
