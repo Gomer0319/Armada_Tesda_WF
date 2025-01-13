@@ -1,4 +1,4 @@
-### **Lesson: Variables in JavaScript - Storing Information, Simplifying Logic**
+### **Variables in JavaScript - Storing Information, Simplifying Logic**
 
 #### **Developmental Outcomes:**
 By the end of this lesson, trainees will be able to:

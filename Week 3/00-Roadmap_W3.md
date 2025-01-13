@@ -5,7 +5,7 @@
 - Explore variables: Declare, initialize, and reassign values.  
 - Understand data types: Strings, numbers, booleans, null, and undefined.  
 - Work with basic operators: Arithmetic, assignment, and comparison.  
-- **Knowledge Check:** Write and debug simple scripts, including variable declarations, data type usage, and performing basic calculations.  
+- Knowledge Check
 
 #### **Day 2: Control Structures**  
 - **Conditional Statements:** Use `if`, `else`, and `else if` to make decisions in code.  
