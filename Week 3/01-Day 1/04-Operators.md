@@ -5,6 +5,7 @@ By the end of this lesson, trainees will be able to:
 1. Use arithmetic operators for calculations.  
 2. Apply assignment operators to store values efficiently.  
 3. Compare values using comparison operators to make decisions in code.  
+4. Utilize logical operators (`&&`, `||`, `!`) to combine conditions and create more complex decision-making structures.  
 
 ---
 
@@ -67,8 +68,57 @@ Comparison operators compare two values and return `true` or `false`.
 
 ---
 
+### **4. Logical Operators: Combining Conditions**  
+Logical operators allow you to combine multiple conditions into one, making your code more powerful and flexible. These operators return `true` or `false` based on the evaluation of the conditions.
+
+| **Operator** | **Description**                         | **Example**              | **Result**          |  
+|--------------|-----------------------------------------|--------------------------|---------------------|  
+| `&&`         | Logical AND (both conditions must be true)  | `true && false`           | `false`             |  
+| &#124; &#124;        | Logical OR (at least one condition must be true) | true &#124; &#124; false           | `true`              |  
+| `!`          | Logical NOT (inverts the boolean value)    | `!true`                   | `false`             |  
+
+#### **Using `&&` (AND):**  
+The `&&` operator requires both conditions to be `true` in order for the entire expression to be `true`.  
+```javascript
+let age = 18;
+let hasTicket = true;
+if (age >= 18 && hasTicket) {
+  console.log("You can enter the concert!");
+} else {
+  console.log("You cannot enter.");
+}
+```
+*In this case, both the age condition and the ticket condition need to be true for the person to enter the concert.*
+
+#### **Using `||` (OR):**  
+The `||` operator requires only one condition to be `true` for the entire expression to be `true`.  
+```javascript
+let hasTicket = false;
+let isVIP = true;
+if (hasTicket || isVIP) {
+  console.log("You can enter the VIP lounge.");
+} else {
+  console.log("You cannot enter.");
+}
+```
+*Here, as long as one condition is true (whether the person has a ticket or is VIP), the person can enter.*
+
+#### **Using `!` (NOT):**  
+The `!` operator inverts the value of a boolean expression, changing `true` to `false` and vice versa.  
+```javascript
+let isLoggedIn = false;
+if (!isLoggedIn) {
+  console.log("Please log in first.");
+} else {
+  console.log("Welcome back!");
+}
+```
+*In this case, the `!isLoggedIn` will evaluate to `true`, because `isLoggedIn` is `false`, and thus the message to log in will be shown.*
+
+---
+
 ### **Key Takeaways:**  
 1. **Arithmetic Operators** handle calculations for dynamic data.  
 2. **Assignment Operators** simplify value updates and storage.  
 3. **Comparison Operators** enable logical decisions in programs.  
-
+4. **Logical Operators** allow you to combine multiple conditions, making decisions in your code more complex and dynamic.
