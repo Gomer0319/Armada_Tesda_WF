@@ -1,0 +1,66 @@
+/* Base Styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .container {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  
+  .block {
+    width: 200px;
+    height: 200px;
+    transition: all 0.3s ease;
+  }
+  
+  .block1 { background-color: #FF5733; }
+  .block2 { background-color: #33FF57; }
+  .block3 { background-color: #3357FF; }
+  .block4 { background-color: #F3FF33; }
+  
+  /* Media Queries */
+  @media (max-width: 480px) {
+    .block {
+      width: 80px;
+      height: 20px;
+      gap: 10px;
+    }
+  
+    .block1 { background-color: #FFC300; }
+    .block2 { background-color: #DAF7A6; }
+    .block3 { background-color: #FF5733; }
+    .block4 { background-color: #33FFBD; }
+  }
+  
+  @media (min-width: 481px) and ( max-width: 768px) {
+    .block {
+      width: 120px;
+      height: 120px;
+      gap: 15px;
+    }
+  
+    .block1 { background-color: #900C3F; }
+    .block2 { background-color: #C70039; }
+    .block3 { background-color: #FF5733; }
+    .block4 { background-color: #FFC300; }
+  }
+  
+  @media (min-width: 769px) {
+    .block {
+      width: 200px;
+      height: 200px;
+      gap: 20px;
+    }
+  
+    .block1 { background-color: #581845; }
+    .block2 { background-color: #900C3F; }
+    .block3 { background-color: #C70039; }
+    .block4 { background-color: #FF5733; }
+  }
