@@ -100,7 +100,7 @@
 
 - **Day 2: Frameworks and Libraries**
   - Introduction to Bootstrap
-  - *(Optional)* Introduction to LESS/SASS
+  - *(Optional)* Introduction to LESS
   - Knowledge Check: Style a page using Bootstrap
 
 - **Day 3: Media Query**
