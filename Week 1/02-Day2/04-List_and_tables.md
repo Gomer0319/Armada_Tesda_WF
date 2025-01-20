@@ -123,12 +123,20 @@ A `<caption>` tag provides a title for the table, improving context.
     <td>Alice</td>
     <td>HR</td>
   </tr>
+  <tr>
+    <td>Bob</td>
+    <td>IT</td>
+  </tr>
 </table>
 ```
 
 **Explanation:**
 - `<caption>` adds context to the table for screen readers and users.
 - Use it to briefly describe the data presented.
+
+#### Actual output sample
+
+<img src="./Assets/Sample_list_table.png" alt="list and table demo">
 
 ---
 

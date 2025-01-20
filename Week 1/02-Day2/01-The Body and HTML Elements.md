@@ -8,12 +8,12 @@ By the end of this lesson, learners will:
 
 ---
 
-### **Introduction: The Body of a Webpage**
+#### **Introduction: The Body of a Webpage**
 Imagine a webpage as a house. The house has a framework that holds it together, rooms that serve specific purposes, and decorations that make it appealing. In HTML, the `<body>` tag is like the main living space of the house—it contains all the visible content of the webpage that users interact with.
 
 The `<body>` tag resides within the broader structure of an HTML document. While the `<head>` tag contains information about the webpage (metadata), the `<body>` tag holds everything users see and experience, including text, images, tables, forms, and links.
 
-### **What is the `<body>` Tag?**
+#### **What is the `<body>` Tag?**
 The `<body>` tag:
 - Encapsulates the main content of an HTML document.
 - Appears after the `<head>` tag and within the `<html>` tag.
@@ -34,11 +34,15 @@ Here's a simple example:
 </html>
 ```
 
+Actual output in the browser:
+
+<img src="./Assets/actual_body_output.png" alt="actual browser body">
+
 In this example, the `<h1>` and `<p>` tags are part of the `<body>`, making them visible on the webpage.
 
 ---
 
-### **HTML Elements: The Building Blocks**
+#### **HTML Elements: The Building Blocks**
 Now that we’ve identified the `<body>` as the container for webpage content, let’s discuss what fills it—HTML elements.
 
 #### **What is an HTML Element?**
@@ -80,7 +84,7 @@ We will discuss these relationships in detail—parent, child, and sibling eleme
 
 ---
 
-### **Key Takeaways**
+#### **Key Takeaways**
 - The `<body>` tag contains all the visible content of a webpage.
 - HTML elements are the building blocks of a webpage, consisting of an opening tag, content, and a closing tag (or self-closing for certain elements).
 - Attributes add more detail to elements, while hierarchy (parent, child, and sibling relationships) allows for structured and organized content.

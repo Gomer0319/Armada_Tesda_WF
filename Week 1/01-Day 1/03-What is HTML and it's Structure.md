@@ -8,6 +8,8 @@ By the end of this lesson, learners will:
 
 ---
 
+<*Insert video here explaining the training course, what HTML, CSS, and JS are (Brief), Introduction of HTML* >
+
 #### **Building Blocks of the Web: Understanding HTML**
 
 Think of HTML (HyperText Markup Language) as the skeleton of a web page. Just like how bones give structure to the body, HTML provides the basic structure for web content. It’s the first step in creating a webpage, allowing browsers to display text, images, links, and other essential elements.

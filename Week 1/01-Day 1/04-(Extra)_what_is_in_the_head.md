@@ -16,19 +16,30 @@ The `<head>` section is a crucial part of an HTML document, as it provides impor
 #### **Key Elements in the `<head>` Section**
 
 1. **`<title>`**  
-   The `<title>` tag defines the title of the webpage, which appears in the browser tab or window. It's an essential part of SEO (Search Engine Optimization) and helps users identify the page.
+   The `<title>` tag defines the title of the webpage, which appears in the browser tab or window. It's an essential part of SEO (Search Engine Optimization) and helps users identify the page. Usually, you can see this in the browser's address bar/tab.
+
    ```html
    <title>My First Webpage</title>
    ```
+
+   Actual title output in the browser:
+
+   <img src="./Assets/browser_tab_title.png" alt="actual browser tab">
+
 
 2. **`<meta>`**  
    The `<meta>` tag is used for providing metadata about the page. It can include information like the character encoding, the page's description, and keywords for search engines.
    - **`<meta charset="UTF-8">`**: Specifies the character encoding (UTF-8 is widely used).
    - **`<meta name="description" content="A personal blog about web development">`**: Provides a description of the page's content for search engines.
+
    ```html
    <meta charset="UTF-8">
    <meta name="description" content="A personal blog about web development">
    ```
+
+   Actual metadata output in the browser:
+
+   <img src="./Assets/metadata_sample.png" alt="actual metadata description">
 
 3. **`<link>`**  
    The `<link>` tag links external resources to the HTML document, such as stylesheets (CSS). It helps to connect the page to other resources like fonts or icons.

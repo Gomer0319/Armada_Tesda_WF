@@ -23,6 +23,8 @@ Headings define the structure and hierarchy of your content, helping users and s
 <h3>Hobbies and Interests</h3>
 ```
 
+<img src="./Assets/heading_actual.png" alt="actual heading">
+
 **Explanation:**  
 - `<h1>` serves as the main title of the page, typically used once.  
 - `<h2>` and `<h3>` break content into sections and subsections, providing a logical flow.  
