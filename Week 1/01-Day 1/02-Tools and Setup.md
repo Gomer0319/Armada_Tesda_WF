@@ -14,13 +14,13 @@ Imagine starting a project without the right tools. For web development, your **
 
 1. **Code Editor: Your Workspace for Writing Code**
 
-The **code editor** is where you’ll write and organize your code. It’s like the desk where you draft your blueprints.
+    The **code editor** is where you’ll write and organize your code. It’s like the desk where you draft your blueprints.
 
-**Recommended Tool: VS Code (Visual Studio Code)**
+    **Recommended Tool: VS Code (Visual Studio Code)**
 
-<img src="./Assets/VSCode.png" alt="VS Code" width="800px">
+    <img src="./Assets/VSCode.png" alt="VS Code" width="70%">
 
-VS Code is one of the most popular and free code editors for web development. It helps you write clean, structured code with features like syntax highlighting, auto-completion, and built-in debugging.
+    VS Code is one of the most popular and free code editors for web development. It helps you write clean, structured code with features like syntax highlighting, auto-completion, and built-in debugging.
 
 **Installation Steps for VS Code:**
 1. Visit [VS Code's download page](https://code.visualstudio.com/).
@@ -36,11 +36,13 @@ VS Code is one of the most popular and free code editors for web development. It
 
 2. **Browsers: Testing and Viewing Your Code**
 
-Browsers are the “viewers” of your web projects, where you can test and see how your website looks and behaves. Each browser may display your site slightly differently, so it’s essential to test across multiple platforms.
+    Browsers are the “viewers” of your web projects, where you can test and see how your website looks and behaves. Each browser may display your site slightly differently, so it’s essential to test across multiple platforms.
 
-**Recommended Browser: Google Chrome**
+    **Recommended Browser: Google Chrome**
 
-Google Chrome is a popular choice for web development due to its developer-friendly features and consistent rendering of websites.
+    <img src="./Assets/Chrome_browser.png" alt="Chrome" width="70%">
+
+    Google Chrome is a popular choice for web development due to its developer-friendly features and consistent rendering of websites.
 
 **Why Google Chrome?**
 - **Built-in Developer Tools**: Chrome comes with powerful tools for inspecting and debugging your HTML, CSS, and JavaScript in real-time.
@@ -54,9 +56,14 @@ Developer tools (DevTools) are built directly into browsers like Chrome and give
 
 **How to Access Developer Tools in Chrome:**
 1. Open Chrome and navigate to any webpage or the one you're working on.
-2. Right-click anywhere on the page and select **Inspect** (or press `Ctrl + Shift + I` on Windows or `Cmd + Option + I` on Mac).
+
+2. Right-click anywhere on the page and select **Inspect** (or press `Ctrl + Shift + I` on Windows or `Cmd + Option + I` on Mac). Another way to access the DevTools is to right-click on the opened Chrome window and select **Inspect** or press F12.
+
 3. The **Elements** tab will show you the structure of your webpage, where you can inspect and edit HTML directly.
+   
 4. The **Console** tab lets you see error messages or log information from your JavaScript code, helping you debug any issues.
+
+<img src="./Assets/Dev_tools_img.png" alt="Chrome DevTools" width="70%">
 
 ---
 

@@ -12,6 +12,8 @@ By the end of this lesson, learners will:
 
 #### **Introduction: The Web as a Digital World**
 
+<img src="./Assets/Web_visual_representation.jpg" alt="Web Visual Representation" width="40%">
+
 Imagine stepping into a digital city, where each website is a building, and the web is the network of roads and communication systems connecting everything. In this city, every user, every webpage, and every server plays a key role in keeping everything functioning smoothly. As a user, you interact with the websites (the buildings), but behind the scenes, there’s a lot more happening to make sure you can visit and access these sites. 
 
 In this lesson, we’ll explore how this "digital city" works, the roles of different components, and how they interact to provide you with the seamless experience you enjoy while browsing the internet.
