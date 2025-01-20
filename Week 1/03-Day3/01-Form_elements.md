@@ -8,6 +8,8 @@ By the end of this lesson, learners will:
 
 ---
 
+< *Add video here explaning what a form is, and it's importance, basics of form elements*>
+
 #### **Why Do We Use Forms on Websites?**
 
 Forms are everywhere on the web! From logging in to subscribing to a newsletter or filling out a survey, forms are the main way we interact with websites. Forms answer a crucial problem: **How do we collect information from users?** Without forms, websites wouldn’t be able to process things like orders, feedback, or even registration.
@@ -15,6 +17,8 @@ Forms are everywhere on the web! From logging in to subscribing to a newsletter 
 Think about filling out a contact form on a website. You type your name, email, and message in the boxes and then click submit. That action sends your information to the website so it can be processed. Forms are the bridge between the user and the website, allowing users to communicate or interact with it.
 
 In this lesson, we’ll dive into the common form elements you’ll encounter and show you how to build your own forms.
+
+<img src="./Assets/sample_form.png" alt="sample form" width="80%">
 
 ---
 
