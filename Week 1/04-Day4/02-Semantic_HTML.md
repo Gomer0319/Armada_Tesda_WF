@@ -14,6 +14,8 @@ Imagine you’re reading a book. A well-written book has clear chapters, heading
 
 HTML works the same way. **Semantic HTML** is like writing a book with meaningful structure. It helps both humans and machines (like web browsers) understand the content and its purpose. Just like chapters and headings organize a book, semantic tags organize a webpage.
 
+<img src="./Assets/semantic.png" alt="Semantic HTML" width="80%">
+
 ---
 
 #### **Why Semantic HTML Matters**

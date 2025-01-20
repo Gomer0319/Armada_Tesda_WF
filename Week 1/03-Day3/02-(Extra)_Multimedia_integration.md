@@ -8,7 +8,7 @@ By the end of this lesson, learners will:
 
 ---
 
-#### **Introduction: Bringing Webpages to Life**  
+#### **Bringing Webpages to Life**  
 
 A webpage full of text and images is great, but adding multimedia like audio and video can make it truly engaging! Imagine listening to a podcast while scrolling a blog or watching a product demo on a landing page—these experiences enhance the way users interact with content.  
 

@@ -8,8 +8,9 @@ By the end of this lesson, learners will:
 4. Recognize the importance of using comments for clarity and collaboration.
 
 ---
+<Add video explaining the importance of observing best practices>
 
-#### **Introduction: Why Organizing HTML is Crucial for Quality Webpages**
+#### **Why Organizing HTML is Crucial for Quality Webpages**
 
 Creating a webpage isn’t just about writing code—it's about making sure that code is organized, readable, and accessible. Whether you're building a personal project or working on a team, clean and well-structured HTML will save you time in the long run. Just as a cluttered workspace makes it harder to work, messy HTML can confuse browsers, slow down development, and impact accessibility. 
 

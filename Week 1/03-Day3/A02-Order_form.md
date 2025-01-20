@@ -46,6 +46,7 @@ In this assignment, you'll create a simple HTML form to collect customer order i
 
 5. **Special Instructions:**
    - Add a text area (`<textarea>`) where the customer can write special instructions for their order.
+   - You can use `<br>` for this assignment.
 
 6. **Submit Button:**
    - Add a submit button (`<button type="submit">`) to submit the form.
@@ -53,6 +54,8 @@ In this assignment, you'll create a simple HTML form to collect customer order i
 7. **Good Practices:**
    - Ensure all form elements are properly labeled using `<label>` tags.
    - Include comments (`<!-- -->`) to explain the purpose of key sections in your code.
+
+<img src="./Assets/sample_form_output.png" alt="sample form output">
 
 ---
 
