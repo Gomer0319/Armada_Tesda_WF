@@ -11,6 +11,8 @@ By the end of this lesson, trainees will be able to:
 #### **Variables**
 Variables are like labeled boxes where you can store information to use later. They allow you to give a name to a piece of data so your program can remember and manipulate it. Without variables, programming would feel like trying to do math without paper—chaotic and unsustainable!
 
+<img src="./Assets/variable_representation.png" alt="Variable Representation">
+
 #### **Why Use Variables?**
 - **Store Data:** Keep user inputs, calculations, or fetched data for reuse.
 - **Simplify Logic:** Assign meaningful names to make your code more readable.

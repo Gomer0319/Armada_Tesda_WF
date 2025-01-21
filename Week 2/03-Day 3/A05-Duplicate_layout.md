@@ -32,7 +32,7 @@ Your task is to duplicate a given layout design as closely as possible using onl
 
 #### **Page Requirements (MVP)**
 
-<img src="./Assets/Sample_layout.png" at="Sample layout to be cloned">
+<img src="./Assets/Sample_layout.png" at="Sample layout to be cloned" width="90%">
 
 - **Header Section:**  
   A navigation bar containing two groups of items:

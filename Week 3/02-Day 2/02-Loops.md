@@ -12,6 +12,8 @@ By the end of this lesson, trainees will be able to:
 ### **Loops: The Power of Repetition**
 Imagine you want to tell a story to 10 people. Instead of repeating it 10 times, wouldn’t it be easier to tell it once and have a microphone repeat it for everyone? In programming, loops act like that microphone, repeating tasks efficiently without writing repetitive code.
 
+<img src="./Assets/Loops.png" alt="Loops">
+
 ---
 
 ### **1. The `for` Loop: A Counted Repeater**

@@ -8,6 +8,8 @@ By the end of this lesson, trainees will be able to:
 
 ---
 
+<add video introducing JavaScript>
+
 ### **The need to learn JavaScript**  
 HTML gives your website structure, and CSS makes it look good—but without JavaScript, your site would feel lifeless and static.  
 
@@ -26,7 +28,9 @@ HTML gives your website structure, and CSS makes it look good—but without Java
 
 4. **Limited User Experience**:  
    Websites used to feel slow and unresponsive because every action needed the server’s help. JavaScript allows certain actions to happen in the browser.  
-   - Example: Instant photo previews when uploading files.  
+   - Example: Instant photo previews when uploading files.
+
+<img src="./Assets/representation.png" alt="Representation">
 
 ---
 
