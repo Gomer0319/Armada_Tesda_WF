@@ -14,6 +14,8 @@ In the world around us, we use memory to store information we’ll need later. S
 
 Think of a function as a **memory box**: You place instructions inside it, and when you need to perform a task, you open the box (call the function), pass it the necessary ingredients (parameters), and it gives you back a result (return value).
 
+<img src="./Assets/tapsi_function.png" alt="function example">
+
 ---
 
 #### **1. Defining a Simple Function**
