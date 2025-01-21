@@ -84,7 +84,11 @@ The `inline-block` value offers flexibility by combining inline flow with block-
 
 ---
 
-#### **Practical Examples of Display Properties**  
+#### **Practical Examples of Display Properties**
+
+- Consider the image below:
+
+   <img src="./Assets/display_properties_sample.png" alt="display properties sample">
 
 1. **Inline**  
    ```html  

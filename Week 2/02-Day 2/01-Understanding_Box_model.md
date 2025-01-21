@@ -7,6 +7,7 @@ By the end of this lesson, learners will:
 3. Identify the components of the Box Model and their roles in layout design.
 
 ---
+<add a short video explaining the concept of the box model>
 
 #### **The Box Model as a Framework**
 
@@ -21,7 +22,7 @@ The CSS Box Model is the way browsers calculate and display the size of elements
 
 ***You can check the box model through using `inspect element`, in the styles tab.*
 
-<img src="./Assets/box_model.png" alt="Box model">
+<img src="./Assets/box_model.png" alt="Box model" width="500">
 
 ---
 

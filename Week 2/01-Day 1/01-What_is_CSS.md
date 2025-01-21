@@ -13,7 +13,12 @@ By the end of this lesson, learners will:
 
 Every time you visit a webpage, you don’t just see text and links—you see colors, fonts, layouts, and images all styled in a way that makes the site more visually appealing and easy to navigate. This magic happens thanks to CSS (Cascading Style Sheets). While HTML organizes the content, CSS is what makes that content look good.
 
+You can make this bland looking website like this: 
+
 <img src="./Assets/craigslist.png" width="600px" height="300px">
+
+Into a more visually appealing website like this:
+
 <img src="./Assets/Armada.png" width="600px" height="300px">
 
 

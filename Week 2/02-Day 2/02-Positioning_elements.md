@@ -23,6 +23,8 @@ The main positioning types are: `Static`, `Relative`, `Absolute`, `Fixed`, `Stic
 Each type has unique characteristics and use cases, and mastering them will give you precise control over your webpage layout.
 
 ---
+<add video demonstrating the different types of positioning, how it works.>
+
 
 #### **Types of Positioning**
 

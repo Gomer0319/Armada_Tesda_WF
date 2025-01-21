@@ -160,6 +160,16 @@ Adjusting text and element sizes is crucial for both visual appeal and accessibi
 
 ---
 
+#### **Sample**
+
+Before CSS is applied:
+
+<img src="./Assets/sample_css_nostyle.png" alt="Sample noCSS">
+
+After CSS is applied:
+
+<img src="./Assets/sample_css_styled.png" alt="Sample withCSS">
+
 #### **Key Takeaways**  
 
 - **Fonts**:  
