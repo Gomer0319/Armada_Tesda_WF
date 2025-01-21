@@ -9,6 +9,8 @@ By the end of this lesson, learners will:
 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wsTv9y931o8?si=UFpHvguiAru-8b8v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 #### **The Need to Flex**  
 Before Flexbox, developers relied on older techniques like floats, tables, or inline-block elements to create layouts. While these worked, they came with challenges:  
 - Aligning items in rows or columns was tedious.  

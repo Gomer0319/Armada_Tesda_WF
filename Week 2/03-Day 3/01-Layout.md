@@ -46,7 +46,7 @@ Good layouts are the backbone of an excellent user experience. They:
 
 #### **Organizing Layouts: Grouping for Simplicity**
 
-<img src="./Assets/Layout-sample.png" alt="Sample Layout" width="1080px">
+<img src="./Assets/Layout-sample.png" alt="Sample Layout" width="90%">
 
 To approach layouts systematically, divide your webpage into logical sections:
 
