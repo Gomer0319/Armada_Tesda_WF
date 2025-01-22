@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interactive Quiz</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>JavaScript Basics Quiz</h1>
+  </header>
+  <main>
+    <section id="quiz">
+      <form id="quizForm">
+        <!-- Question 1 -->
+        <div class="question">
+          <p>1. What does DOM stand for?</p>
+          <label><input type="radio" name="q1" value="a"> Document Object Model</label><br>
+          <label><input type="radio" name="q1" value="b"> Data Output Module</label><br>
+          <label><input type="radio" name="q1" value="c"> Display Object Manager</label>
+        </div>
+        <!-- Question 2 -->
+        <div class="question">
+          <p>2. What is the correct way to declare a variable in JavaScript?</p>
+          <label><input type="radio" name="q2" value="a"> var myVariable;</label><br>
+          <label><input type="radio" name="q2" value="b"> let myVariable;</label><br>
+          <label><input type="radio" name="q2" value="c"> Both a and b</label>
+        </div>
+        <!-- Question 3 -->
+        <div class="question">
+          <p>3. Which operator is used to check both value and type?</p>
+          <label><input type="radio" name="q3" value="a"> ==</label><br>
+          <label><input type="radio" name="q3" value="b"> ===</label><br>
+          <label><input type="radio" name="q3" value="c"> !=</label>
+        </div>
+        <!-- Question 4 -->
+        <div class="question">
+          <p>4. What is the output of `console.log(typeof null)`?</p>
+          <label><input type="radio" name="q4" value="a"> "object"</label><br>
+          <label><input type="radio" name="q4" value="b"> "null"</label><br>
+          <label><input type="radio" name="q4" value="c"> "undefined"</label>
+        </div>
+        <!-- Question 5 -->
+        <div class="question">
+          <p>5. Which method is used to add an event listener to an element?</p>
+          <label><input type="radio" name="q5" value="a"> addEventListener</label><br>
+          <label><input type="radio" name="q5" value="b"> attachListener</label><br>
+          <label><input type="radio" name="q5" value="c"> setEvent</label>
+        </div>
+        <!-- Submit Button -->
+        <button type="button" id="submitQuiz">Submit Quiz</button>
+      </form>
+      <div id="result"></div>
+    </section>
+  </main>
+  <footer>
+    <p>Good luck with your JavaScript journey!</p>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
