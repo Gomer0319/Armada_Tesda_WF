@@ -23,7 +23,10 @@ CSS Grid is perfect for complex, structured layouts. It allows you to create gri
 
 ---
 
-### **Flexbox vs. Grid: When to Use Which?**  
+### **Flexbox vs. Grid: When to Use Which?** 
+
+<img src="./Assets/flexbox_and_grid.png" alt="Flexbox vs. Grid" width="70%">
+
 | Feature             | Flexbox                       | Grid                          |
 |---------------------|------------------------------|------------------------------|
 | Layout Type         | One-dimensional (row/column)  | Two-dimensional (rows + columns) |

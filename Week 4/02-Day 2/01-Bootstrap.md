@@ -10,6 +10,9 @@ By the end of this lesson, trainees will be able to:
 ---
 
 ### **What is Bootstrap?**
+
+<img src="./Assets/bootstrap.png" alt="Bootstrap Logo" style="width: 60%; display: block; margin: 24px auto; border-radius: 24px;">
+
 Bootstrap is a popular open-source CSS framework designed to help developers quickly build responsive and mobile-first websites. It includes pre-designed components, a responsive grid system, and powerful JavaScript plugins.
 
 #### **Why Use Bootstrap?**

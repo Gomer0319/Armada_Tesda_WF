@@ -9,12 +9,12 @@ By the end of this lesson, trainees will be able to:
 
 ---
 
-### **CSS and JavaScript: A Perfect Team**
+#### **CSS and JavaScript: A Perfect Team**
 CSS styles your webpage, while JavaScript makes it interactive. When combined, they create dynamic, engaging user experiences. For example, CSS can define how a button looks, and JavaScript can make the button respond to user clicks by changing its style or triggering animations.
 
 ---
 
-### **How JavaScript Interacts with CSS**
+#### **How JavaScript Interacts with CSS**
 JavaScript can:
 - **Modify inline styles**: Change CSS properties directly on elements.
 - **Add or remove CSS classes**: Toggle predefined styles efficiently.
@@ -34,7 +34,7 @@ function changeColor() {
 ```
 ---
 
-### **Using CSS Classes with JavaScript**
+#### **Using CSS Classes with JavaScript**
 A more efficient way to change styles is by adding or removing CSS classes.
 
 #### **Example: Toggle Button State**
@@ -59,7 +59,7 @@ Here, clicking the button toggles the `active` class, changing its appearance.
 
 ---
 
-### **Building Interactive Features**
+#### **Building Interactive Features**
 
 #### **1. Hover Effects with JavaScript**
 While CSS alone can handle simple hover effects, JavaScript provides greater control. For instance, you can highlight a list item when hovered over.
@@ -155,14 +155,14 @@ A dropdown menu is another interactive feature easily created using CSS and Java
 
 ---
 
-### **Best Practices**
+#### **Best Practices**
 1. **Separate Concerns**: Use CSS for styling and JavaScript for interactivity.
 2. **Optimize Performance**: Avoid frequent DOM manipulations.
 3. **Graceful Fallbacks**: Ensure your design works without JavaScript for users who have it disabled.
 
 ---
 
-### **Key Takeaways**
+#### **Key Takeaways**
 1. CSS and JavaScript together create engaging and dynamic user experiences.
 2. JavaScript can modify inline styles, toggle classes, and respond to events to change CSS properties.
 3. Interactive features like modals, hover effects, and dropdowns are achievable with simple JavaScript and CSS combinations.

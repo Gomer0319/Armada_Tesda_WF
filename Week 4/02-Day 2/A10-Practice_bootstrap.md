@@ -18,7 +18,7 @@ In this assignment, you will create a simple, responsive webpage using **Bootstr
 
 #### **Page Requirements (MVP)**
 
-<img src="./Assets/Flexbox_practice_sample.png" alt="sample output flexbox exercise" width="800px">
+<img src="./Assets/bootstrap_practice_sample.png" alt="sample output flexbox exercise" width="800px">
 
 1. **Navigation Bar:**  
    - Create a simple navigation bar with links (e.g., Home, About, Contact).  

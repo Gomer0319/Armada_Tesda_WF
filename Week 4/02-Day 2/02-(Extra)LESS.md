@@ -10,6 +10,8 @@ By the end of this lesson, you will understand:
 
 ### **What is LESS?**
 
+<img src="./Assets/less.jpg" alt="LESS Logo" style="width: 50%; display: block; margin: 24px auto; border-radius: 24px;">
+
 LESS stands for **Leaner Style Sheets**, and it's a CSS preprocessor. Think of it as a tool that adds superpowers to CSS. With LESS, you can write CSS more efficiently using features like variables, nested rules, functions, and mixins. Once written, the LESS code is compiled into regular CSS that browsers can understand.
 
 ---
