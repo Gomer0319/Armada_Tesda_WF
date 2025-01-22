@@ -12,6 +12,8 @@ By the end of this lesson, trainees will be able to:
 ### **What is the DOM?**  
 The **Document Object Model (DOM)** is a programming interface for web documents. It represents the page so that programs can manipulate its structure, style, and content. In simple terms, it’s a tree-like structure that organizes the HTML of a webpage into nodes (elements, text, etc.), allowing JavaScript to access and modify these nodes.
 
+<img src="./Assets/DOM_manipulation.png" alt="DOM manipulation illustraion">
+
 #### **The Birth of the DOM:**  
 The DOM came into existence in the mid-1990s, as web pages became more dynamic and interactive. Before the DOM, webpages were static, meaning their content could only be changed by reloading the entire page. As the need for interactive content grew, the DOM was created as a way for browsers to represent the structure of HTML documents in a way that could be manipulated by JavaScript, making it possible to dynamically change content without needing a page reload.
 

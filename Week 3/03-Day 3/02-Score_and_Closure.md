@@ -11,7 +11,7 @@ By the end of this lesson, trainees will be able to:
 
 #### **Why Scope and Closures Matter**
 
-When writing code, it’s crucial to understand **where** your variables live and **how** they’re accessed. This concept is called **scope**. Understanding scope helps:
+When writing code, it’s crucial to understand **where** your variables live and **how** they’re accessed. This concept is called **scope**, and understanding it helps:
 - Avoid unexpected bugs caused by variable conflicts.
 - Keep code organized and readable.
 

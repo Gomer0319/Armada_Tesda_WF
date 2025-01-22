@@ -12,6 +12,8 @@ By the end of this lesson, trainees will be able to:
 #### **Event Listeners Matter**
 Think of websites you use daily — when you click a button, type in a form, or hover over an image, something happens. These actions, or **events**, are what make web pages interactive.  
 
+<img src="./Assets/event_listener_image.png" alt="Event Listener Image">
+
 Without event listeners, websites would feel static and unresponsive. Event listeners allow you to "listen" for specific actions (like a click) and run a block of code in response. They're the magic behind a smooth, interactive user experience.
 
 ---

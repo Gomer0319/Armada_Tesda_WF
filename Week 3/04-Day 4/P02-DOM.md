@@ -75,7 +75,7 @@ In this assignment, you’ll focus on fundamental DOM manipulation and traversin
      ```
 
 3. **DOM Manipulation Tasks:**
-   - Complete all five tasks listed above.
+   - Complete all five tasks listed above. It is best to complete them in the order provided, and check your work as you go (looking on the output, confirming the changes).
 
 4. **File Setup:**
    - Save your JavaScript file as `script.js`.

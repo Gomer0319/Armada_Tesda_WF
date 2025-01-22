@@ -1,7 +1,3 @@
-Here’s a structured project assignment for your trainees to clone a screenshot of a chosen website using only **HTML** and **CSS**. 
-
----
-
 ### **Project: Website Screenshot Clone**
 
 #### **Objective**  
