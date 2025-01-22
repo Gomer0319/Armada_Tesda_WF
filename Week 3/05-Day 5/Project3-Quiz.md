@@ -71,7 +71,9 @@ Beginner to Intermediate
 
 3. **Good Practices**  
    - Use meaningful variable names and comments in your JavaScript code.  
-   - Write clean and readable HTML, CSS, and JavaScript.  
+   - Write clean and readable HTML, CSS, and JavaScript.
+
+<img src="./Assets/WebFun_week3_project.gif" alt="expected output" width="90%">
 
 ---
 
