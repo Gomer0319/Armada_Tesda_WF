@@ -7,7 +7,7 @@ In this assignment, you will create a simple, responsive webpage using **Bootstr
 
 ---
 
-### **Instructions**
+#### **Instructions**
 
 1. Set up a new HTML file and link to **Bootstrap** either via CDN or by downloading the source files.  
 2. Use the Bootstrap grid system to organize content.  
@@ -18,7 +18,7 @@ In this assignment, you will create a simple, responsive webpage using **Bootstr
 
 #### **Page Requirements (MVP)**
 
-<img src="./Assets/bootstrap_practice_sample.png" alt="sample output flexbox exercise" width="800px">
+<img src="./Assets/bootstrap_practice_sample.png" alt="sample output flexbox exercise" style="max-width: 90%; height: auto; margin: 24px auto;">
 
 1. **Navigation Bar:**  
    - Create a simple navigation bar with links (e.g., Home, About, Contact).  
@@ -48,7 +48,7 @@ In this assignment, you will create a simple, responsive webpage using **Bootstr
 
 ---
 
-### **Evaluation Criteria & Learning Objectives**
+#### **Evaluation Criteria & Learning Objectives**
 
 - Understand the basics of Bootstrap’s grid system and how to structure a responsive layout.  
 - Use common Bootstrap components like the navbar and button.  
@@ -57,7 +57,7 @@ In this assignment, you will create a simple, responsive webpage using **Bootstr
 
 ---
 
-### **Submission Guidelines**
+#### **Submission Guidelines**
 
 1. Save your completed HTML file as `lastname_firstname_simplepage.html`.  
 2. Submit the file via the designated platform or email it to your instructor with the subject line: "Bootstrap Assignment: Simple Web Page."  
@@ -65,7 +65,7 @@ In this assignment, you will create a simple, responsive webpage using **Bootstr
 
 ---
 
-### **Important Notes**
+#### **Important Notes**
 
 - Use the [Bootstrap Documentation](https://getbootstrap.com/docs/5.3/) for guidance and to explore additional components.  
 - Focus on getting the layout to look good on different screen sizes by using the responsive grid system.  

@@ -22,6 +22,8 @@ Media queries solve problems like:
 
 ### **How Media Queries Work**
 
+<img src="./Assets/media_query.png" alt="Media Query" style="width: 80%; height: auto; display: block; margin: 24px auto; border-radius: 24px;">
+
 A media query is a CSS technique that applies styles only when certain conditions are met. It uses the `@media` rule, followed by a condition, to target specific devices or screen sizes. Here’s the basic syntax:
 
 ```css

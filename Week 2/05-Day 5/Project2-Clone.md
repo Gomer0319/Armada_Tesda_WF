@@ -1,6 +1,5 @@
 ### **Project: Website Screenshot Clone**
 
-#### **Objective**  
 The goal is to replicate the layout and design of a provided website screenshot as closely as possible using only **HTML** and **CSS**. This project will help you practice web development fundamentals like:  
 - Structuring content using semantic HTML.  
 - Applying CSS for layout and styling.  

@@ -1,6 +1,5 @@
 ### **Project: Interactive Quiz Webpage**  
 
-#### **Objective**  
 The goal is to create an interactive quiz webpage that uses **HTML**, **CSS**, and **JavaScript**. This project focuses on applying JavaScript concepts such as:  
 - Variables and operators.  
 - Conditional statements (if-else and switch).  

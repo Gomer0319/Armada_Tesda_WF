@@ -21,6 +21,8 @@ Writing JavaScript for tasks like DOM manipulation, event handling, and animatio
 
 ### **What is jQuery?**
 
+<img src="./Assets/jquery_logo.png" alt="jQuery Logo" style="width: 30%; height: auto; margin: 24px auto; display: block;border-radius: 24px;">
+
 jQuery is a popular JavaScript library designed to simplify common tasks like:
 - **DOM Traversal and Manipulation**: Easily select and modify elements on a webpage.
 - **Event Handling**: Manage events like clicks, hovers, and form submissions efficiently.
