@@ -17,7 +17,9 @@ Once a selector targets an element, CSS uses **properties** to define the style 
 
 ---
 
-#### **CSS Selectors: Targeting HTML Elements**  
+#### **CSS Selectors: Targeting HTML Elements**
+
+<img src="./Assets/selector.png" alt="CSS Selectors">
 
 CSS selectors are patterns that specify which HTML elements to style. Let’s explore the most common types:
 
