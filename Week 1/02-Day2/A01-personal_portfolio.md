@@ -42,8 +42,6 @@ Your task is to create a basic HTML webpage as the first step in building your p
    - **Contact Information:** Create a table (`<table>`) to display at least 3 pieces of information (e.g., Email, Phone Number, LinkedIn Profile).
 
 3. **Good Practices:**
-   - Ensure your code is clean and well-indented.
-   - Use semantic HTML where appropriate (e.g., `<header>`, `<footer>`, `<section>`).
    - Include comments (`<!-- -->`) to explain the purpose of key sections in your code.
 
 ---

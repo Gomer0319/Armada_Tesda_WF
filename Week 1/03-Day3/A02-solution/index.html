@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us Form</title>
+</head>
+<body>
+    <h1>Contact Us</h1>
+    <!-- this is the form part -->
+    <form>
+        <label for="name">Name:</label>
+        <input type="text" name="name"><br>
+        <label for="email">Email:</label>
+        <input type="email" name="email"><br>
+        <label for="phone">Phone Number:</label>
+        <input type="text" name="phone"><br>
+        <label for="message">Message:</label>
+        <textarea name="message"></textarea><br>
+        <label for="contactMethod">Preferred Contact Method:</label>
+        <select name="contactMethod">
+            <option value="email">Email</option>
+            <option value="phone">Phone</option>
+        </select><br>
+        <p>Is the above information and message correct and final?</p>
+        <input type="checkbox" name="infoConfirmationYes">
+        <label for="infoConfirmation">Yes, the above information and message is correct and final.</label><br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>

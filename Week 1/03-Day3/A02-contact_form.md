@@ -17,10 +17,12 @@ In this assignment, you'll create a simple **Contact Us** form for your portfoli
 
 ### **Evaluation Criteria & Learning Objectives**
 
-- Demonstrate an understanding of how to structure and create forms in HTML.
-- Use appropriate form elements like text inputs, email fields, text areas, and submit buttons.
-- Properly label form elements with `<label>` tags for accessibility and ease of use.
-- Ensure the form is simple, clean, and functional without styling.
+- Design a Basic Web Form
+- Create a functional "Contact Us" form using `<form>` and input elements such as `<input>`, `<textarea>`, and `<button>`.
+- Enhance Form Usability.
+- Use attributes like placeholder and required to improve user experience.
+- Organize Form Layout
+- Structure form elements for clarity and accessibility using `<fieldset>` and `<label>`.
 
 ---
 
@@ -32,6 +34,7 @@ In this assignment, you'll create a simple **Contact Us** form for your portfoli
    - Save your file as `lastname_firstname_contactform.html`.
    - Include the `<!DOCTYPE html>` declaration.
    - Include a `<head>` section with a `<title>` tag reflecting the page content (e.g., "Contact Us Form").
+   - Include a `<h1>` tag for the main heading (e.g., "Contact Us").
 
 2. **Form Fields:**
    - **Name:** Create a text input field for the user’s name.
@@ -46,19 +49,21 @@ In this assignment, you'll create a simple **Contact Us** form for your portfoli
    - Add the `required` attribute where necessary (for the name, email, and message fields).
    - Include comments (`<!-- -->`) to explain the purpose of key sections in your code.
 
+> **Note:** Avoid using any inline styles or attributes related to appearance at this stage. Though it is not a good practice, we will allow the use of `<br>` tag to add line breaks so that you can visualize the form layout.
+
 ---
 
 #### **Stretch Requirements**
 If you want to challenge yourself, consider adding these features:
 
 1. **Phone Number Field:**
-   - Add an input field for the user’s phone number (`<input type="tel">`).
+   - Add an input field for the user’s number.
 
 2. **Additional Fields:**
    - Add a dropdown (`<select>`) where the user can select their preferred contact method (e.g., Email, Phone).
 
 3. **Checkbox:**
-   - Add a checkbox for the user to confirm they agree to your privacy policy (e.g., "I agree to the terms and conditions").
+   - Add a checkbox for the user to confirm that the information and messages are final and correct.
 
 ---
 
