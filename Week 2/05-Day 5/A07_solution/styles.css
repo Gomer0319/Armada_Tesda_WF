@@ -25,13 +25,13 @@ body::before {
     background-image: url(./assets/tech.jpg);
     background-size: cover;
     background-position: center;
-    opacity: 0.5; /* Adjust opacity as needed */
+    opacity: 0.6; /* Adjust opacity as needed */
     z-index: -1;
 }
 
 header img {
     width: 10%;
-    border: 3px solid rgb(162, 160, 160);
+    border: 3px solid rgb(105, 44, 132);
     border-radius: 24px;
     margin: 16px 0;
     box-shadow: 4px 4px 8px rgba(78, 75, 75, 0.4);
@@ -55,7 +55,7 @@ li {
 }
 
 nav {
-    width: 80%;
+    width: 60%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -88,6 +88,7 @@ nav {
 .nav_links li:hover {
     background-color: rgb(100, 192, 164);
     border: 1px solid rgb(72, 224, 188);
+    transition: all 0.3s ease;
 }
 
 .nav_links li a {
@@ -100,7 +101,7 @@ header {
     justify-content: center;
     align-items: center;
     border-radius: 24px;
-    width: 80%;
+    width: 60%;
     margin: 0 auto;
     background-color: rgba(236, 225, 233, 0.3);
 }
@@ -117,7 +118,7 @@ main {
     border: 1px solid rgb(244, 156, 179);
     padding: 24px;
     box-shadow: 4px 4px 8px rgba(78, 75, 75, 0.4);
-    width: 80%;
+    width: 60%;
     margin: 24px auto;
 }
 
@@ -160,6 +161,7 @@ section {
 
 .skills ul li:hover, .technologies ol li:hover {
     transform: scale(1.1);
+    transition: all 0.3s ease;
 }
 
 .skills ul li img, .technologies ol li img {
@@ -185,20 +187,16 @@ section {
     padding: 8px;
 }
 
-.secondhalf {
-    display: flex;
-    gap: 24px;
-}
-
 .secondhalf .portfolio, .secondhalf .education {
     background-color: rgb(196, 127, 226);
-    width: 50%;
+    width: 100%;
 }
 
 .secondhalf .portfolio ul li {
     margin: 12px 0;
     padding: 24px;
     border: 1px solid rgb(142, 72, 172);
+    background-color: rgb(214, 168, 239);
 }
 
 .secondhalf .education table {
@@ -226,7 +224,7 @@ footer {
     margin: 24px auto 0;
     color: white;
     height: auto;
-    width: 80%;
+    width: 60%;
 }
 
 form {
@@ -264,6 +262,7 @@ form button {
     border: 1px solid rgb(17, 111, 71);
     font-size: 16px;
     color: white;
+    transition: all 0.3s ease;
 }
 
 form button:hover {
