@@ -27,7 +27,7 @@ You are required to use the **Personal Portfolio** from **Assignment 1** as your
   - Ensure the form is user-friendly by using attributes like `placeholder` and `required`.
 
 - **Apply Semantic HTML and the PCS Relationship**  
-  - Structure the portfolio using appropriate semantic elements like `<header>`, `<nav>`, `<section>`, and `<footer>`.  
+  - Structure the portfolio using appropriate semantic elements like `<header>`, `<main>`, `<section>`, and `<footer>`.  
   - Organize your content according to the Parent-Child-Sibling (PCS) relationship to ensure a clear, logical hierarchy.
 
 - **Validate and Debug HTML Code**  
@@ -41,7 +41,7 @@ You are required to use the **Personal Portfolio** from **Assignment 1** as your
 #### **Portfolio Requirements (MVP)**  
 Your portfolio webpage must include the following sections:
 
-1. **Header Section**  
+1. **Header**  
    - Display your name as a heading.  
    - Include a short tagline or one-sentence introduction of yourself.  
    - **Include a professional image of yourself** using the `<img>` tag. Ensure the image is accessible by including an appropriate `alt` attribute.  

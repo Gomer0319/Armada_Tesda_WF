@@ -47,33 +47,37 @@ By completing this assignment, trainees will be able to:
    - Set the font size of all `<p>` elements to **16px**.  
 
 3. **Spacing (Margin and Padding)**:  
-   - Add **24px padding** inside the `<main>` container for better spacing around the content.  
-   - Set **24px margin** outside the `<h1>` to provide space between it and surrounding elements.  
+   - Wrap your about me section up to education sections in a `<main>` container.  Add **24px padding** inside the `<main>` container for better spacing around the content.  
+   - Set **24px 0 margin** outside the `<h1>` to provide space between it and surrounding elements.  
    - Add **12px padding** to the `<footer>` and set a **24px top margin** to create space between the footer and content above.
+   - Add **24px margin** to the `<nav>` container to create space.
+   - Set the **padding** of `<li>` elements to **8px** for better spacing.
+   - Set the margins of `<section>` elements to **24px 0** with a padding of **16px** for better spacing.
+   - Set the **margin** of `<img>` elements to **16px 0**.
+
 
 4. **Background Colors**:  
    - Set the background color of the `<body>` to **rgb(240, 235, 235)** for a soft, light background.  
-   - Change the background color of the `<main>` section (e.g., a light gray or any color that complements the portfolio).  
+   - Change the background color of the `<main>` section (e.g., a light gray or any color that complements the portfolio).
+   - Change the background color of the `<nav>` and `<section>` section.
    - Set the background color of the `<footer>` to **black** and its text color to **white** for contrast.
 
 5. **Width, Height, and Borders**:  
-   - Resize the portfolio **image** to **400px** while maintaining the aspect ratio.  
-   - Add a **border** around the `<main>` container and set its **width to 450px**.  
-   - Adjust the footer’s **height of 50px** and add a **gray border** around it.
+   - Resize the portfolio **image** to **200px** while maintaining the aspect ratio.  
+   - Add a **border** around the `<main>` container and set its **width to auto**.
+   - Add a **border** around the image and set its **border-width** to **2px**. 
+   - Adjust the footer’s **height** and add a **gray border** around it.
 
 ---
 
 #### **Stretch Requirements**
 
 1. **Advanced Border Styling**:  
-   - Add **rounded corners** (16px radius) to the `<main>` container, footer, and image.  
-   - Apply a **shadow effect** to the `<main>` container and the image for depth.
+   - Add **rounded corners** (16px radius) to the `<main>` container, sections, footer, and image.  
+   - Apply a **shadow effect** to the `<main>` container, sections, and the image for depth.
 
 2. **Custom Fonts**:  
    - Use a **Google Font** (e.g., "Roboto" or "Open Sans") for all text.  
-
-3. **Interactive Elements**:  
-   - Add a **hover effect** on the `<footer>` that changes its background color when the user hovers over it.
 
 ---
 
