@@ -42,10 +42,10 @@ By completing this assignment, trainees will be able to:
 
 1. **Box Model Layout**:
    - Use margin, padding, borders, width, and height properties to structure your portfolio sections.
-   - Ensure that sections such as `header`, `main`, and `footer` have proper spacing and alignment.
+   - Ensure that sections such as `header`, `main`, `section`, and `footer` have proper spacing and alignment.
 
 2. **Header Section (Navbar)**:
-   - **Add a navigation bar** to your header section with links for **Home**, **About Me**, **Skills**, **Technologies**, and **Portfolio**.
+   - **Add a navigation bar** to your header section with links for **Home**, **About Me**, **Skills**, **Technologies**, **Trainings**, and **Portfolio**.
    - Use `display: flex` to align and space the links horizontally.
    - Style the links (e.g., change the color, add hover effects).
    - Ensure the navbar is positioned at the top of the page.

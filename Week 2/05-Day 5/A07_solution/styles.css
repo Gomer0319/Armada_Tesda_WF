@@ -6,14 +6,14 @@
 
 body {
     background-color: rgb(240, 235, 235);
-    padding: 24px;
+    padding: 12px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 16px;
 }
 
 img {
-    width: 200px;
-    border: 2px solid rgb(0, 0, 0);
+    width: 10%;
+    border: 1px solid rgb(162, 160, 160);
     border-radius: 24px;
     margin: 16px 0;
     box-shadow: 4px 4px 8px rgba(78, 75, 75, 0.4);
@@ -21,44 +21,175 @@ img {
 
 h1 {
     color: rgb(122, 43, 111);
-    padding: 24px 0;
 }
+
 
 li {
     list-style-type: none;
     padding: 8px;
+    border-radius: 24px;
 }
 
 nav {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     border-radius: 24px;
     background-color: rgb(142, 188, 214);
-    margin: 24px 0;
+    margin: 0px auto 24px;
     padding: 24px;
+    position: sticky;
+    top: 0;
+    box-shadow: 4px 4px 8px rgba(110, 108, 108, 0.4);
+}
+
+.nav_links {
+    display: flex;
+    gap: 16px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav_links li {
+    width: 132px;
+    text-align: center;
+    border: 1px solid rgb(72,168, 224);
+    border-radius: 24px;
+    background-color: rgb(55, 146, 199);
+    box-shadow: 4px 4px 8px rgba(136, 135, 135, 0.4);
+}
+
+.nav_links li a {
+    text-decoration: none;
+    color: white;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header .banner {
+    display: flex;
+    flex-direction: column;
+    margin: 24px;
 }
 
 main {
     border-radius: 24px;
     background-color: rgb(234, 188, 222);
-    border: 1px solid rgb(173, 42, 77);
+    border: 1px solid rgb(244, 156, 179);
     padding: 24px;
     box-shadow: 4px 4px 8px rgba(78, 75, 75, 0.4);
-    width: auto;
+    width: 80%;
+    margin: 24px auto;
 }
 
 section {
     background-color: rgb(231, 149, 209);
-    padding: 16px;
+    padding: 24px;
     margin: 24px 0;
     border-radius: 24px;
     box-shadow: 4px 4px 8px rgba(78, 75, 75, 0.4);
 }
 
+.resume {
+    display: flex;
+    gap: 24px;
+}
+
+
+.skills, .technologies {
+    width: 30%;
+}
+
+.skills ul, .technologies ol {
+    display: flex;
+    gap: 8px;
+}
+
+.trainings {
+    width: 40%;
+}
+
+.trainings table {
+    width: 100%;
+    border-collapse: collapse;
+    line-height: 2;
+}
+
+.trainings table td {
+    background-color: rgb(234, 165, 239);
+    border: 1px solid rgb(189, 120, 120);
+    padding: 8px;
+}
+
+.secondhalf {
+    display: flex;
+    gap: 24px;
+}
+
+.secondhalf .portfolio, .secondhalf .education {
+    background-color: rgb(196, 127, 226);
+    width: 50%;
+}
+
+.secondhalf .education table {
+    width: 100%;
+    border-collapse: collapse;
+    line-height: 2;
+}
+
+.secondhalf .education table td {
+    background-color: rgb(214, 168, 239);
+    border: 1px solid rgb(142, 72, 172);
+    padding: 8px;
+}
+
 footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
     background-color: rgb(0, 0, 0);
     border: 1px solid rgb(46, 44, 46);
     border-radius: 24px;
-    padding: 12px;
-    margin-top: 24px;
+    padding: 24px;
+    margin: 24px auto 0;
     color: white;
-    height: 100px;
+    height: auto;
+    width: 80%;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+form input {
+    width: 30em;   
+    padding: 8px;
+    border-radius: 8px;
+    border: 1px solid rgb(142, 72, 172);
+}
+
+form textarea {
+    width: 30em;
+    min-height: 10em;
+    padding: 8px;
+    border-radius: 8px;
+    border: 1px solid rgb(142, 72, 172);
+}
+
+form button {
+    margin: 8px auto;
+    width: 8em;
+    padding: 8px;
+    border-radius: 8px;
+    background-color: rgb(47, 199, 80);
+    border: 1px solid rgb(17, 111, 71);
 }

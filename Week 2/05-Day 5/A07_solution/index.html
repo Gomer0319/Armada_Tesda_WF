@@ -9,14 +9,8 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
-        <h1>Guma Karasu</h1>
-        <p>Welcome to my Personal Portfolio, and browse below to learn more about me</p>
-        <img src="./assets/my_image.png" alt="Profile photo of Kuya Goma">
-    </header>
-    
     <nav>
-        <ul>
+        <ul class="nav_links">
             <li><a href="#about">About Me</a></li>
             <li><a href="#skills">Skills</a></li>
             <li><a href="#technologies">Technologies</a></li>
@@ -26,92 +20,104 @@
         </ul>
     </nav>
 
+    <header>
+        <img src="./assets/my_image.png" alt="Profile photo of Kuya Goma">
+        <div class="banner">
+            <h1>Guma Karasu</h1>
+            <p>Welcome to my Personal Portfolio, and browse below to learn more about me</p>
+        </div>
+    </header>
+
     <main>
-        <section>
+        <section class="about">
             <h3 id="about">About Me</h3>
             <p>I'm Kuya Goms and I'm a part of the Curriculum Development team. I love coding and learning new things, and I'm seeing a lot of potential in this field.</p>
         </section>
 
-        <section>
-            <h3 id="skills">Skills</h3>
-            <ul>
-                <li>HTML</li>
-                <li>CSS</li>
-                <li>JavaScript</li>
-                <li>Managerial Skills</li>
-            </ul>
-        </section>
+        <div class="resume">
+            <section class="skills">
+                <h3 id="skills">Skills</h3>
+                <ul class="skills_list">
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                    <li>Managerial Skills</li>
+                </ul>
+            </section>
 
-        <section>
-            <h3 id="technologies">Technologies</h3>
-            <ol>
-                <li>React</li>
-                <li>Bootstrap</li>
-                <li>Jquery</li>
-                <li>PHP</li>
-            </ol>
-        </section>
+            <section class="technologies">
+                <h3 id="technologies">Technologies</h3>
+                <ol>
+                    <li>React</li>
+                    <li>Bootstrap</li>
+                    <li>Jquery</li>
+                    <li>PHP</li>
+                </ol>
+            </section>
 
-        <section>
-            <h3 id="trainings">Trainings</h3>
-            <table>
-                <tr>
-                    <th>Training</th>
-                    <th>Duration</th>
-                </tr>
-                <tr>
-                    <td>Basic JS training</td>
-                    <td>June 2024-July 2024</td>
-                </tr>
-                <tr>
-                    <td>PHP training</td>
-                    <td>Dec 2023-Jan 2024</td>
-                </tr>
-                <tr>
-                    <td>UI/UX training</td>
-                    <td>July 2023-August 2023</td>
-                </tr>
-                <tr>
-                    <td>Web Fundamentals training</td>
-                    <td>April 2024-May 2024</td>
-                </tr>
-            </table>
-        </section>
+            <section class="trainings">
+                <h3 id="trainings">Trainings</h3>
+                <table>
+                    <tr>
+                        <th>Training</th>
+                        <th>Duration</th>
+                    </tr>
+                    <tr>
+                        <td>Basic JS training</td>
+                        <td>June 2024-July 2024</td>
+                    </tr>
+                    <tr>
+                        <td>PHP training</td>
+                        <td>Dec 2023-Jan 2024</td>
+                    </tr>
+                    <tr>
+                        <td>UI/UX training</td>
+                        <td>July 2023-August 2023</td>
+                    </tr>
+                    <tr>
+                        <td>Web Fundamentals training</td>
+                        <td>April 2024-May 2024</td>
+                    </tr>
+                </table>
+            </section>
+        </div>
 
-        <section>
-            <h3 id="portfolio">Portfolio</h3>
-            <ul>
-                <li>
-                    <h4>JS Game</h4>
-                    <p>Create a game using JavaScript for the logic, and HTML and CSS for the design</p>
-                </li>
-            </ul>
-        </section>
+        <div class="secondhalf">
+            <section class="portfolio">
+                <h3 id="portfolio">Portfolio</h3>
+                <ul>
+                    <li>
+                        <h4>JS Game</h4>
+                        <p>Create a game using JavaScript for the logic, and HTML and CSS for the design</p>
+                    </li>
+                </ul>
+            </section>
 
-        <section>
-            <h3 id="education">Education Background</h3>
-            <table>
-                <tr>
-                    <th>Course</th>
-                    <th>School</th>
-                    <th>Duration</th>
-                </tr>
-                <tr>
-                    <td>Bachelor of Science in Industrial Education</td>
-                    <td>DMMMSU-MLUC</td>
-                    <td>June 2003-March 2008</td>
-                </tr>
-            </table>
-        </section>
+            <section class="education">
+                <h3 id="education">Education Background</h3>
+                <table>
+                    <tr>
+                        <th>Course</th>
+                        <th>School</th>
+                        <th>Duration</th>
+                    </tr>
+                    <tr>
+                        <td>Bachelor of Science in Industrial Education</td>
+                        <td>DMMMSU-MLUC</td>
+                        <td>June 2003-March 2008</td>
+                    </tr>
+                </table>
+            </section>
+        </div>
     </main>
 
     <footer>
         <h3 id="contact">Contact Me</h3>
         <form>
             <label for="name">Name:</label>
-            <input type="text" id="name" name="name" required>
+            <input type="text" id="name" name="name" placeholder="Enter your name" required>
             <label for="email">Email:</label>
-            <input type="email" id="email" name="email" required>
+            <input type="email" id="email" name="email" placeholder="Enter your email" required>
             <label for="message">Message:</label>
             <textarea id="message" name="message" required></textarea>
             <button type="submit">Submit</button>
