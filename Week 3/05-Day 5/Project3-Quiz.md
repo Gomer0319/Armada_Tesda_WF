@@ -1,121 +1,97 @@
-### **Project: Interactive Quiz Webpage**  
+## **Assignment 7: Adding JavaScript Functionality to Your Personal Portfolio**  
 
-The goal is to create an interactive quiz webpage that uses **HTML**, **CSS**, and **JavaScript**. This project focuses on applying JavaScript concepts such as:  
-- Variables and operators.  
-- Conditional statements (if-else and switch).  
-- Loops.  
-- Event listeners.  
-- DOM manipulation.  
+### **Overview**  
+In this assignment, you will enhance your **Personal Portfolio** by applying **JavaScript concepts**, focusing on:  
+1. **Event Handling** (responding to user interactions)  
+2. **DOM Manipulation** (updating webpage content dynamically)  
+3. **Form Validation** (ensuring valid user input)  
+4. **Loops** (generating and displaying content dynamically)  
 
-You will build a simple webpage where users can answer a series of quiz questions and receive feedback on their performance.  
-
----
-
-### **Estimated Time to Completion**  
-8 hours  
-
-### **Level of Complexity**  
-Beginner to Intermediate  
+By adding these interactive features, your portfolio will become more engaging and functional.  
 
 ---
 
-### **Instructions**  
-
-1. **Set Up the Project**  
-   - Create a folder named `lastname_firstname_quizproject`.  
-   - Inside the folder, create the following files:  
-     - `index.html`  
-     - `styles.css`  
-     - `script.js`  
-   - Link the CSS and JavaScript files to your HTML document.  
-
-2. **Structure the Webpage**  
-   - Use semantic HTML to create the following sections:  
-     - **Header**: Title of the quiz.  
-     - **Main Content**:  
-       - A section for quiz questions (at least 5).  
-       - A "Submit" button.  
-       - A feedback area to show results after submission.  
-     - **Footer**: A message like “Good luck!” or credits.  
-
-3. **Design the Page with CSS**  
-   - Add styles to make the quiz visually appealing.  
-   - Use the **Box Model** for spacing.  
-   - Use **Flexbox** for alignment.  
-
-4. **Add JavaScript Functionality**  
-   - Use JavaScript to:  
-     - Store the quiz questions, answers, and user responses.  
-     - Validate user input.  
-     - Display the quiz results dynamically.  
-   - Emphasize the use of:  
-     - Variables and operators to handle quiz logic.  
-     - Conditional statements to check answers.  
-     - Loops for processing multiple questions.  
-     - Event listeners for button clicks.  
-     - DOM manipulation to update the quiz result area.  
+### **Estimated Time to Completion:** 6–8 hours  
+### **Level of Complexity:** Beginner to Intermediate  
 
 ---
 
-### **Requirements (MVP)**  
+## **Instructions**  
 
-1. **Basic Layout**  
-   - A title, a set of 5 questions, and a results section.  
-   - Each question should have 3-4 multiple-choice options (radio buttons).  
+### **Set Up Your JavaScript File**  
+- Open your **Personal Portfolio** project.  
+- Create a new file named `script.js` and link it to your HTML file.  
 
-2. **JavaScript Logic**  
-   - Validate the answers when the user clicks “Submit.”  
-   - Display the total score and feedback dynamically on the webpage.  
-   - Use at least one loop, conditional statement, and event listener.  
+### **Implement Interactive Features Using JavaScript**  
 
-3. **Good Practices**  
-   - Use meaningful variable names and comments in your JavaScript code.  
-   - Write clean and readable HTML, CSS, and JavaScript.
+#### **1. Image Slideshow for Your Profile Section**  
+Allow visitors to cycle through multiple profile images.  
+- Add at least **3 profile images** to an array.  
+- Use `getElementById()` or `querySelector()` to select the image element.  
+- Create **Next** and **Previous** buttons.  
+- Use **event listeners** and **conditional statements** to update the displayed image when a button is clicked.  
 
-<img src="./Assets/WebFun_week3_project.gif" alt="expected output" width="90%">
+#### **2. "Back to Top" Button**  
+Make scrolling more convenient.  
+- Add a **"Back to Top"** button that appears when the user scrolls down.  
+- Use `window.onscroll` to detect scrolling.  
+- Implement **smooth scrolling** when the button is clicked.  
 
----
+#### **3. Contact Form Validation**  
+Ensure valid input before submission.  
+- Check if required fields (**Name, Email, Message**) are filled in.  
+- Use **regular expressions** to validate email format.  
+- Display error messages if the input is incorrect.  
 
-### **Stretch Goals**  
-
-1. **Timer**  
-   - Add a countdown timer for the quiz.  
-   - Automatically submit the quiz when the time is up.  
-
-2. **Animations**  
-   - Use CSS to add hover effects and transitions to buttons or quiz sections.  
-
-3. **More Questions**  
-   - Extend the quiz to include 10 or more questions.  
-
-4. **Score Breakdown**  
-   - Display detailed feedback, such as which questions were correct and incorrect.  
-
----
-
-### **Evaluation Criteria & Learning Objectives**  
-
-- **JavaScript Application**: Demonstrated understanding of variables, conditions, loops, event listeners, and DOM manipulation.  
-- **Problem-Solving**: Ability to handle quiz logic, input validation, and dynamic updates.  
-- **HTML & CSS**: Proper use of semantic elements and clean design.  
-- **Good Practices**: Clean and organized code with appropriate comments.  
+#### **4. Dynamically Display Technologies Using JavaScript Loops**  
+Showcase your tech stack dynamically.  
+- Store technologies (e.g., **HTML, CSS, JavaScript, Bootstrap, jQuery**) in an **array**.  
+- Use a **loop** to generate and display icons or images for each technology in your **"Technologies I Know"** section.  
+- Append these elements dynamically to your page.  
 
 ---
 
-### **Submission Guidelines**  
+## **Evaluation Criteria & Learning Objectives**  
 
-1. Submit the folder `lastname_firstname_quizproject` containing the following files:  
-   - `index.html`  
-   - `styles.css`  
-   - `script.js`  
+By completing this assignment, you will:  
 
-2. Compress the folder into a ZIP file named `lastname_firstname_quizproject.zip`.  
+**Implement an Image Slideshow Using JavaScript**  
+   - Store and cycle through images using an **array**.  
+   - Use **variables** to track the current image index.  
+   - Apply **event listeners** and **conditional statements** to update the displayed image.  
 
-3. Submit your ZIP file via the designated platform or email it to your instructor.  
+**Create a Functional "Back to Top" Button**  
+   - Use **JavaScript to detect scrolling** and show the button when needed.  
+   - Implement **smooth scrolling** when the button is clicked.  
+
+**Validate Form Input Before Submission**  
+   - Ensure required fields (**Name, Email, Message**) are filled.  
+   - Use **conditional statements** to validate the email format and display error messages.  
+
+**Dynamically Display Technologies Using Loops**  
+   - Store a list of **technologies** in an **array**.  
+   - Use a **loop** to generate and display each technology dynamically.  
 
 ---
 
-### **Important Notes**  
-- Focus on applying JavaScript concepts. Don’t worry about making the design perfect.  
-- Take breaks if you get stuck and refer to your notes or previous lessons.  
-- Ask for help if needed, but make sure you understand the solution.  
+## **Submission Guidelines**  
+
+**File Naming Convention:**  
+- Save your JavaScript file as `script.js`.  
+
+**Include Screenshots:**  
+- Submit **screenshots** showing your **JavaScript features in action**.  
+
+**Submission Format:**  
+- Upload a **zipped folder** named `Lastname_Firstname_Portfolio_JS`.  
+- Submit through the designated platform or email your instructor.  
+
+---
+
+## **Stretch Goals (Optional Enhancements)**  
+
+**Dark Mode Toggle**  
+- Add a button that switches between **light and dark themes**.  
+
+**Typing Animation for Introduction Text**  
+- Use JavaScript to create a **typing effect** for your bio.  
