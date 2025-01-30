@@ -11,6 +11,7 @@
 <body>
     <nav>
         <ul class="nav_links">
+            <li><a href="#home">Home</a></li>
             <li><a href="#about">About Me</a></li>
             <li><a href="#skills">Skills</a></li>
             <li><a href="#technologies">Technologies</a></li>
@@ -20,7 +21,7 @@
         </ul>
     </nav>
 
-    <header>
+    <header id="home">
         <img src="./assets/my_image.png" alt="Profile photo of Kuya Goma">
         <div class="banner">
             <h1>Guma Karasu</h1>
@@ -38,20 +39,44 @@
             <section class="skills">
                 <h3 id="skills">Skills</h3>
                 <ul class="skills_list">
-                    <li>HTML</li>
-                    <li>CSS</li>
-                    <li>JavaScript</li>
-                    <li>Managerial Skills</li>
+                    <li>
+                        <p>HTML</p>
+                        <img src="./assets/html.png" alt="HTML logo">
+                    </li>
+                    <li>
+                        <p>CSS</p>
+                        <img src="./assets/css-3.png" alt="CSS logo">
+                    </li>
+                    <li>
+                        <p>JS</p>
+                        <img src="./assets/js.png" alt="JS logo">
+                    </li>
+                    <li>
+                        <p>Managerial Skills</p>
+                        <img src="./assets/managerial.png" alt="Managerial logo">
+                    </li>
                 </ul>
             </section>
 
             <section class="technologies">
                 <h3 id="technologies">Technologies</h3>
                 <ol>
-                    <li>React</li>
-                    <li>Bootstrap</li>
-                    <li>Jquery</li>
-                    <li>PHP</li>
+                    <li>
+                        <p>React</p>
+                        <img src="./assets/react.png" alt="HTML logo">
+                    </li>
+                    <li>
+                        <p>Bootstrap</p>
+                        <img src="./assets/bootstrap.png" alt="Bootstrap logo">
+                    </li>
+                    <li>
+                        <p>Jquery</p>
+                        <img src="./assets/social.png" alt="Jquery logo">
+                    </li>
+                    <li>
+                        <p>PHP</p>
+                        <img src="./assets/php.png" alt="PHP logo">
+                    </li>
                 </ol>
             </section>
 
@@ -119,7 +144,7 @@
             <label for="email">Email:</label>
             <input type="email" id="email" name="email" placeholder="Enter your email" required>
             <label for="message">Message:</label>
-            <textarea id="message" name="message" required></textarea>
+            <textarea id="message" name="message" placeholder="Enter your message" required></textarea>
             <button type="submit">Submit</button>
         </form>
     </footer>
