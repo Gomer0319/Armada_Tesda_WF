@@ -1,4 +1,4 @@
-### **Assignment 1: Building the Foundation of Your Personal Portfolio with HTML**
+### **Assignment: Building the Foundation of Your Personal Portfolio with HTML**
 
 Your task is to create a basic HTML webpage as the first step in building your personal portfolio. This assignment will help you practice structuring a document, using basic HTML elements, and applying best practices discussed in class. You will focus on organizing the content clearly and using proper HTML tags.
 

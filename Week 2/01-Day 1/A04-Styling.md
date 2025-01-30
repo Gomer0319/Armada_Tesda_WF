@@ -1,111 +1,93 @@
-### **Assignment: Basic Styling with CSS**
+### **Assignment 4: Applying Basic Styling to Your Personal Portfolio**
 
-In this assignment, you will practice applying basic CSS styles to an HTML file. You’ll work on styling fonts, adding margins and padding, changing background colors, adjusting element dimensions, and adding borders. Your goal is to match the appearance of your styled file to the sample output provided.
+In this assignment, you will build upon your **Personal Portfolio** from **Assignment 3** and practice applying basic CSS styles to enhance its appearance. You will modify font sizes, weights, and colors for text, adjust layouts with margins, padding, and borders, and experiment with common CSS properties like background colors and interactive styles. Your goal is to apply these styles in a way that improves the visual appeal of your portfolio while maintaining clarity and readability.
 
-#### **Estimated Time to Completion:** 1 hour  
+#### **Estimated Time to Completion:** 2-4 hours  
 #### **Level of Complexity:** Beginner  
 
 ---
 
 ### **Instructions**
 
-1. Use the provided HTML code below as your starting point. Copy it into a new file and name it `index.html`.  
-2. Create a new CSS file named `styles.css` and link it to the HTML file.  
-3. Save both files in a folder named `Lastname_Firstname_CSSstyling`.  
-4. Follow the styling instructions below and compare your work to the provided sample output.  
+1. **Base Assignment**: Use the **Personal Portfolio** you created in **Assignment 3** as your base for this styling assignment.
+2. **Create a CSS File**: In the same folder as your HTML file, create a new CSS file named `styles.css` and link it to your HTML file.
+3. Apply the following basic styles to enhance your portfolio.
+4. Save both files in a folder named `Lastname_Firstname_Portfolio_Styling` (e.g., `doe_john_portfolio_styling`).
+5. Compare your final work to the sample output provided.
 
 ---
 
 ### **Evaluation Criteria & Learning Objectives**
 
-- Understand how to link a CSS file to an HTML document.  
-- Apply basic font styles, including color, size, weight, and style.  
-- Use margins and padding to create appropriate spacing.  
-- Change background colors and adjust the width and height of elements.  
-- Style borders and explore advanced border techniques (stretch task).  
+By completing this assignment, trainees will be able to:
+
+- **Apply Basic Text Styling**  
+  - Modify font sizes, weights, and colors for headings and paragraphs using CSS.  
+  - Use appropriate color schemes to improve readability and aesthetics.
+
+- **Enhance Layout with Borders and Backgrounds**  
+  - Add borders to sections for better visual separation.  
+  - Apply background colors or images to improve the design.
+
+- **Experiment with Common CSS Properties**  
+  - Use margin and padding to create spacing between elements.  
+  - Style links, buttons, and other interactive elements for better user experience.
 
 ---
 
-#### **Directions**
+### **Directions**
 
-**Provided HTML Code**:  
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Basic Styling Assignment</title>
-</head>
-<body>
-    <header>
-        <h1>Welcome to My Page</h1>
-    </header>
-    <main class="container">
-        <p>This is a sample paragraph. It contains <span>important text</span> that should stand out.</p>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyfXdKH7SrCVpLx-h0j9VSLf7LQxwWgptJNw&s0" alt="Sample Image">
-    </main>
-    <footer>
-        <p>Footer Content</p>
-    </footer>
-</body>
-</html>
-```
+#### **Page Requirements (MVP)**
 
-#### **Page Requirements (MVP)**  
+1. **Link the CSS File**:  
+   - Ensure the `styles.css` file is correctly linked to your HTML file.  
 
-1. **Link the CSS File:**  
-   - Ensure the `styles.css` file is correctly linked to `index.html`.  
+2. **Font Styling**:  
+   - Change the font color of the `<h1>` element (the title of your page).  
+   - Set the font size of all `<p>` elements to **16px**.  
 
-2. **Font Styling:**  
-   - Change the font color of `<h1>`.  
-   - Set the font size of all `<p>` elements to 16px.  
-   - Make `<span>` text both bold and italic and color red.  
+3. **Spacing (Margin and Padding)**:  
+   - Add **24px padding** inside the `<main>` container for better spacing around the content.  
+   - Set **24px margin** outside the `<h1>` to provide space between it and surrounding elements.  
+   - Add **12px padding** to the `<footer>` and set a **24px top margin** to create space between the footer and content above.
 
-3. **Spacing (Margin and Padding):**  
-   - Add padding inside the `<main>` container by 24px.  
-   - Set margin outside the `<h1>` by 24px.
-   - Set the padding of the footer to 12px and have top margin of 24px.  
+4. **Background Colors**:  
+   - Set the background color of the `<body>` to **rgb(240, 235, 235)** for a soft, light background.  
+   - Change the background color of the `<main>` section (e.g., a light gray or any color that complements the portfolio).  
+   - Set the background color of the `<footer>` to **black** and its text color to **white** for contrast.
 
-4. **Background Colors:**  
-   - Change the background color of the `<body>` with rgb 240, 235, 235.
-   - Change the background color of the `<main>` with 
-   - Set the background color of the `<footer>` to black and adjust its text color white.  
-
-5. **Width, Height, and Borders:**  
-   - Resize the image while maintaining its aspect ratio around 400px.  
-   - Add a border around the `<main>` container and have it's width 450px.  
-   - Adjust footer width to 476px with a height of 50px. Also add a border with a gray color.
-
-<img src="./Assets/A04_sample_output.png" alt="Sample output for styling" width="300px">
+5. **Width, Height, and Borders**:  
+   - Resize the portfolio **image** to **400px** while maintaining the aspect ratio.  
+   - Add a **border** around the `<main>` container and set its **width to 450px**.  
+   - Adjust the footer’s **height of 50px** and add a **gray border** around it.
 
 ---
 
 #### **Stretch Requirements**
 
-1. **Advanced Border Styling:**  
-   - Add rounded edges to the `<main>` container, footer and image by 16px.  
-   - Apply a shadow effect to the main and image.  
+1. **Advanced Border Styling**:  
+   - Add **rounded corners** (16px radius) to the `<main>` container, footer, and image.  
+   - Apply a **shadow effect** to the `<main>` container and the image for depth.
 
-2. **Custom Fonts:**  
-   - Use a Google Font (e.g., "Roboto" or "Open Sans") for all text.  
+2. **Custom Fonts**:  
+   - Use a **Google Font** (e.g., "Roboto" or "Open Sans") for all text.  
 
-3. **Interactive Elements:**  
-   - Add a hover effect that changes the background color of `<footer>`. 
+3. **Interactive Elements**:  
+   - Add a **hover effect** on the `<footer>` that changes its background color when the user hovers over it.
 
 ---
 
 ### **Submission Guidelines**
 
-1. Save your files as `index.html` and `styles.css`.  
-2. Place both files in a folder named `Lastname_Firstname_CSSstyling`.  
-3. Submit the entire folder via the designated platform or email it to your instructor with the subject line: "CSS Styling Assignment."  
+1. **File Naming Convention**:  
+   Save your HTML file as `lastname_firstname_portfolio.html` and your CSS file as `styles.css`.  
+2. Place both files in a folder named `Lastname_Firstname_Portfolio_Styling` (e.g., `doe_john_portfolio_styling`).
+3. Submit the entire folder via the designated platform or email it to your instructor with the subject line: "CSS Styling Assignment".  
 
 ---
 
 ### **Important Notes**
 
 - Test your work in a browser to ensure it matches the sample output.  
-- Use consistent indentation and comments to make your CSS code readable.  
-- Focus on following the instructions to achieve the desired result.  
-
+- Use consistent indentation and comments in your CSS code to make it readable and maintainable.  
+- Focus on following the instructions to achieve the desired result while ensuring readability, structure, and visual appeal.
