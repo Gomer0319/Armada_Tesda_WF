@@ -22,7 +22,14 @@
     </nav>
 
     <header id="home">
-        <img src="./assets/my_image.png" alt="Profile photo of Kuya Goma">
+        <!-- Image Switcher -->
+        <div class="img_switcher_container">
+            <img id="profile_image" src="./assets/my_image.png" alt="Profile photo of Kuya Goma">
+            <div class="img_switcher">
+                <button id="previous"><img src="./assets/previous.png" alt="previous button"></button>
+                <button id="next"><img src="./assets/next-page.png" alt="next button"></button>
+            </div>
+        </div>
         <div class="banner">
             <h1>Guma Karasu</h1>
             <p>Welcome to my Personal Portfolio, and browse below to learn more about me</p>
@@ -138,7 +145,7 @@
 
     <footer>
         <h3 id="contact">Contact Me</h3>
-        <form>
+        <form id="contactForm">
             <label for="name">Name:</label>
             <input type="text" id="name" name="name" placeholder="Enter your name" required>
             <label for="email">Email:</label>
@@ -148,5 +155,7 @@
             <button type="submit">Submit</button>
         </form>
     </footer>
+
+    <script src="script.js"></script>
 </body>
 </html>

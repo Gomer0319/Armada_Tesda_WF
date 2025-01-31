@@ -43,7 +43,7 @@ By completing this assignment, trainees will be able to:
 
 #### **Page Requirements (MVP)**  
 
-1. **Image Slideshow for Profile Picture**  
+1. **Image switcherfor Profile Picture**  
    - Add at least **three images** to your profile section.  
    - Create **Next** and **Previous** buttons to cycle through images.  
    - Use JavaScript to change the displayed image when buttons are clicked.  
