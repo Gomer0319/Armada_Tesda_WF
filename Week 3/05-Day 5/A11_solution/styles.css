@@ -15,7 +15,7 @@ body {
     position: relative;
 }
 
-/* body::before {
+body::before {
     content: "";
     position: absolute;
     top: 0;
@@ -25,10 +25,9 @@ body {
     background-image: url(./assets/tech.jpg);
     background-size: cover;
     background-position: center;
-    opacity: 0.6;  Adjust opacity as needed 
+    opacity: 0.6; /* Adjust opacity as needed */
     z-index: -1;
-} 
-*/
+}
 
 header img {
     width: 10%;
@@ -129,18 +128,6 @@ section {
     margin: 24px 0;
     border-radius: 24px;
     box-shadow: 4px 4px 8px rgba(78, 75, 75, 0.4);
-}
-
-#update_bio {
-    background-color:rgb(47, 199, 80);
-    border: 1px solid rgba(125, 230, 196, 0.5);
-    padding: 8px;
-    margin: 24px 0;
-    width: 8em;
-    border-radius: 24px;
-    box-shadow: 4px 4px 8px rgba(78, 75, 75, 0.4);
-    font-size: 16px;
-    color: white;
 }
 
 .resume {
@@ -280,19 +267,4 @@ form button {
 
 form button:hover {
     background-color: rgb(17, 111, 71);
-}
-
-#toggle_theme {
-    margin: 8px auto;
-    width: 8em;
-    padding: 8px;
-    border-radius: 8px;
-    background-color: rgb(47, 199, 80);
-    border: 1px solid rgb(17, 111, 71);
-    font-size: 16px;
-    color: white;
-    transition: all 0.3s ease;
-    position: fixed;
-    top: 8px;
-    right: 8px;
 }

@@ -1,6 +1,6 @@
-### Assignment 9: Practicing DOM Manipulation and Traversing
+### Assignment 9: Practicing DOM Manipulation and Traversing in your Portfolio
 
-This assignment will introduce trainees to DOM manipulation and traversal by making simple modifications to their **Personal Portfolio** using JavaScript. The goal is to help them practice selecting, modifying, and traversing elements in the DOM without adding complex interactivity.
+This assignment will introduce you to DOM manipulation and traversal by making simple modifications to their **Personal Portfolio** using JavaScript. The goal is to help you practice selecting, modifying, and traversing elements in the DOM without adding complex interactivity.
 
 #### Estimated Time to Completion
 **2–4 hours**
@@ -33,7 +33,7 @@ By completing this assignment, trainees will be able to:
    - Update the **navigation links** by adding a background color when hovered over.
 
 2. **Update the About Section with JavaScript**
-   - Select the **About Me** paragraph and change its content using JavaScript.
+   - Select the **About Me** section and change its content using JavaScript.
    - Add a button labeled **"Update Bio"** that updates the text when clicked.
 
 3. **Highlight Technologies with JavaScript**
