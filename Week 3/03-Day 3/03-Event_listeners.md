@@ -1,11 +1,13 @@
 ### **Bringing Web Pages to Life with Event Listeners**
 
-#### **Developmental Outcomes:**
+#### **Learning Objectives:**
+
 By the end of this lesson, trainees will be able to:
-1. Understand what event listeners are and how they work.  
-2. Use `addEventListener` to attach events to buttons, forms, and other elements.  
-3. Handle common events like clicks, input changes, mouse events, and form submissions.  
-4. Write interactive JavaScript code that responds to user actions.  
+
+1. Define event listeners and explain how they work.
+2. Use `addEventListener` to attach events to buttons, forms, and other elements.
+3. Handle common events like clicks, input changes, mouse events, and form submissions.
+4. Write interactive JavaScript code that responds to user actions.
 
 ---
 

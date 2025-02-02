@@ -1,11 +1,13 @@
 ### **Understanding Scope and Closures in JavaScript**
 
-#### **Developmental Outcomes:**
+**Learning Objectives:**
+
 By the end of this lesson, trainees will be able to:
+
 1. Differentiate between global, local, and block scope in JavaScript.
-2. Understand how variables are accessed within different scopes.
-3. Explain closures and why they are important.
-4. Apply closures to create powerful, flexible code.
+2. Describe how variables are accessed within different scopes.
+3. Explain closures and their significance in JavaScript.
+4. Apply closures to create more powerful and flexible code.
 
 ---
 
