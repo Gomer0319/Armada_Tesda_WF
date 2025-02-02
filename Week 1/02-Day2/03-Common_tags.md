@@ -2,7 +2,7 @@
 
 #### **Developmental Outcome**  
 By the end of this lesson, learners will:  
-1. Understand the purpose and usage of key HTML tags such as `<h1>`, `<p>`, `<a>`, and `<img>`.  
+1. Understand the purpose and usage of key HTML tags such as `<h1>`, `<p>`, `<a>`, `<img>`, and `<div>`.  
 2. Recognize the importance of proper tagging for accessibility and SEO.  
 3. Be able to apply these tags to create meaningful, accessible, and well-structured web content.
 
@@ -80,10 +80,50 @@ The `<img>` tag displays images on a webpage and includes attributes like `src` 
 - The `src` attribute specifies the image’s location.  
 - The `alt` attribute describes the image, crucial for accessibility.  
 
+**How to Add Image Sources:**  
+1. **Using a URL:** If the image is hosted online, provide the full URL:  
+   ```html
+   <img src="https://www.example.com/images/dog.jpg" alt="A cute dog">
+   ```
+2. **Using a Local Folder:** If the image is saved in the same directory as your HTML file, simply use the filename:  
+   ```html
+   <img src="dog.jpg" alt="A cute dog">
+   ```
+3. **Using a Subfolder:** If the image is inside a subfolder, specify the folder path:  
+   ```html
+   <img src="images/dog.jpg" alt="A cute dog">
+   ```
+4. **Going Up a Directory:** If the image is in a parent folder, use `../` to navigate up:  
+   ```html
+   <img src="../assets/dog.jpg" alt="A cute dog">
+   ```
+
 **Why the `alt` Attribute Matters:**  
 1. **Accessibility:** Screen readers narrate the `alt` text for visually impaired users.  
 2. **SEO:** Search engines use `alt` text to understand an image's content, improving page rankings.  
 3. **Fallback:** When an image fails to load, the `alt` text ensures the user still gets context.
+
+---
+
+#### **Div: A Versatile but Cautious Wrapper**  
+The `<div>` tag is a container used to group elements together, often for styling or layout purposes. While useful, `<div>` should be used sparingly to avoid unnecessary complexity and maintain semantic clarity. 
+
+##### **Example Usage**  
+```html
+<div class="content-box">
+    <h2>My Blog</h2>
+    <p>Welcome to my blog where I share web development tips!</p>
+</div>
+```
+
+**Explanation:**  
+- `<div>` wraps multiple elements, making it easier to apply styles or structure a webpage.  
+- By itself, `<div>` has no meaning; it is primarily used with CSS or JavaScript.  
+
+**When to Use `<div>` Sparingly:**  
+1. **Favor Semantic Tags:** Instead of `<div>`, use `<section>`, `<article>`, `<header>`, or `<footer>` when possible.  
+2. **Avoid Div Soup:** Overusing `<div>` without meaningful structure can lead to messy, hard-to-maintain code.  
+3. **Use It for Styling & Layout:** `<div>` is useful when grouping elements together for CSS styling or JavaScript manipulation.  
 
 ---
 
@@ -92,3 +132,6 @@ The `<img>` tag displays images on a webpage and includes attributes like `src` 
 - **Paragraphs** group and convey textual information.  
 - **Links** connect content across the web and improve navigation.  
 - **Images** enhance visual appeal, while `alt` text ensures accessibility and SEO optimization.  
+- **Image sources** can be from URLs, local folders, or subdirectories.  
+- **Divs** help group elements but should be used sparingly to maintain clean and semantic HTML.
+

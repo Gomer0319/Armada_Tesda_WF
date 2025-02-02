@@ -36,7 +36,7 @@ Here's a simple example:
 
 Actual output in the browser:
 
-<img src="./Assets/actual_body_output.png" alt="actual browser body">
+<img src="Assets/actual_body_output.png" alt="actual browser body">
 
 In this example, the `<h1>` and `<p>` tags are part of the `<body>`, making them visible on the webpage.
 
