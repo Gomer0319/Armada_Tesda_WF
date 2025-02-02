@@ -1,10 +1,13 @@
 ### **Tools and Setup (What we need)**
 
-#### **Developmental Outcome**
-By the end of this lesson, learners will:
-1. Understand how to set up and effectively use essential tools for web development.
-2. Be familiar with the role of a code editor, browser, and developer tools in the web development workflow.
-3. Configure their workspace for an efficient and productive coding experience.
+### **Learning Objectives**  
+
+By the end of this lesson, learners will be able to:  
+
+- **Set up** and **use** essential tools for web development effectively.  
+- **Describe** the role of a code editor, browser, and developer tools in the web development workflow.  
+- **Configure** their workspace to enhance efficiency and productivity in coding.  
+
 
 ---
 

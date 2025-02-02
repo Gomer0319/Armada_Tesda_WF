@@ -1,12 +1,13 @@
 ### **HTML and Its Structure**
 
-#### **Developmental Outcome**
-By the end of this lesson, learners will:
-1. Understand the role of HTML in web development.
-2. Be familiar with the basic structure of an HTML document.
-3. Recognize the importance of HTML in creating web pages and how it serves as the foundation for web content.
+#### **Learning Objectives**  
 
----
+By the end of this lesson, learners will be able to:  
+
+- **Explain** the role of HTML in web development.  
+- **Identify** the basic structure of an HTML document.  
+- **Describe** the importance of HTML in creating web pages and its role as the foundation for web content.  
+
 
 <*Insert video here explaining the training course, what HTML, CSS, and JS are (Brief), Introduction of HTML* >
 

@@ -1,10 +1,12 @@
 ### **Day 2: The Body and HTML Elements**
 
-#### **Developmental Outcome**
-By the end of this lesson, learners will:
-1. Understand the role of the `<body>` tag in an HTML document.
-2. Identify and describe the basic components of an HTML element.
-3. Recognize the significance of structuring content within the `<body>` tag.
+### **Learning Objectives**  
+
+By the end of this lesson, learners will be able to:  
+
+- **Explain** the role of the `<body>` tag in an HTML document.  
+- **Identify** and **describe** the basic components of an HTML element.  
+- **Demonstrate** the importance of structuring content within the `<body>` tag.  
 
 ---
 

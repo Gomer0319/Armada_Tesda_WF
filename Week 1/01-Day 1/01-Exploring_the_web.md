@@ -1,12 +1,12 @@
 ### **Exploring the Web: Behind the Scenes of Your Browser**
 
-#### **Developmental Outcome**
-By the end of this lesson, learners will:
-1. Understand how the Web operates, including basic communication between web systems.
-2. Learn key terms such as client, server, DNS, HTTP, and TCP/IP.
-3. Visualize the flow of data between the client and the server through the HTTP Request-Response Cycle.
-4. Recognize the Web’s role in addressing modern challenges like accessibility and global communication.
-5. Understand the roles of frontend and backend in web development and how they connect to Web Fundamentals.
+#### **Learning Objectives**
+By the end of this lesson, learners will be able to:
+- Explain how the Web operates, including basic communication between web systems.
+- Define key terms such as client, server, DNS, HTTP, and TCP/IP.
+- Illustrate the flow of data between the client and the server through the HTTP Request-Response Cycle.
+- Analyze the Web’s role in addressing modern challenges like accessibility and global communication.
+- Differentiate between frontend and backend development and describe their connection to Web Fundamentals.
 
 ---
 
