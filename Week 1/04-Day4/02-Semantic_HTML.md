@@ -1,10 +1,11 @@
 ### **Understanding Semantic HTML: Writing Meaningful Code**
 
-#### **Developmental Outcome**
-By the end of this lesson, learners will:
-1. Understand the concept of semantic HTML and why it matters.
-2. Recognize the difference between semantic and non-semantic tags.
-3. Apply semantic HTML tags to structure a webpage clearly and accessibly.
+#### **Learning Objectives**  
+By the end of this lesson, learners will be able to:  
+
+1. Explain the concept of semantic HTML and its importance for accessibility, SEO, and maintainability.  
+2. Differentiate between semantic (`<article>`, `<section>`, `<header>`, `<footer>`, etc.) and non-semantic (`<div>`, `<span>`) HTML tags.  
+3. Use semantic HTML tags to create well-structured, meaningful, and accessible webpages.
 
 ---
 

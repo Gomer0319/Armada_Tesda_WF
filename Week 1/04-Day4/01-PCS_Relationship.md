@@ -1,10 +1,11 @@
 ### **Understanding HTML Relationships: PCS Hierarchy**
 
-#### **Developmental Outcome**
-By the end of this lesson, learners will:
-1. Understand the concept of Parent, Child, and Sibling (PCS) relationships in HTML.
-2. Recognize how elements are nested to create a clear structure.
-3. Write clean and hierarchical HTML code using PCS relationships.
+#### **Learning Objectives**  
+By the end of this lesson, learners will be able to:  
+
+1. Define and identify Parent, Child, and Sibling (PCS) relationships in HTML.  
+2. Analyze how nested elements contribute to a well-structured and maintainable HTML document.  
+3. Write clean, hierarchical HTML code by correctly nesting elements using PCS relationships.
 
 ---
 
