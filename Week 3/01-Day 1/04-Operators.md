@@ -1,11 +1,13 @@
 ### **Lesson: Mastering Basic Operators in JavaScript**
 
-#### **Developmental Outcomes:**  
-By the end of this lesson, trainees will be able to:  
-1. Use arithmetic operators for calculations.  
-2. Apply assignment operators to store values efficiently.  
-3. Compare values using comparison operators to make decisions in code.  
-4. Utilize logical operators (`&&`, `||`, `!`) to combine conditions and create more complex decision-making structures.  
+#### **Learning Objectives:**
+
+By the end of this lesson, trainees will be able to:
+
+1. Use arithmetic operators to perform calculations.
+2. Apply assignment operators to store values efficiently.
+3. Compare values using comparison operators to make decisions in code.
+4. Use logical operators (&&, ||, !) to combine conditions and create complex decision-making structures.
 
 ---
 

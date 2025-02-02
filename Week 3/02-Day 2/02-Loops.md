@@ -1,11 +1,13 @@
 ### **Lesson: Repeating Tasks with Loops in JavaScript**
 
-#### **Developmental Outcomes:**  
-By the end of this lesson, trainees will be able to:  
-1. Understand the purpose of loops in programming.  
-2. Use `for`, `while`, and `forEach` loops to repeat tasks.  
-3. Apply control keywords (`break`, `continue`, `return`) to manage loop behavior.  
-4. Identify use cases for different types of loops.  
+#### **Learning Objectives:**
+
+By the end of this lesson, trainees will be able to:
+
+1. Define the purpose of loops in programming.
+2. Use for, while, and forEach loops to repeat tasks.
+3. Apply control keywords (break, continue, return) to manage loop behavior.
+4. Identify appropriate use cases for different types of loops.
 
 ---
 

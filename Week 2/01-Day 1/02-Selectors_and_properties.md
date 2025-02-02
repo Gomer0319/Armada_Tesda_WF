@@ -1,11 +1,13 @@
 ### **Selectors and Properties: Targeting Elements to Apply Styles**
 
-#### **Developmental Outcome**  
-By the end of this lesson, learners will:  
-1. Understand what CSS selectors are and how they work to target HTML elements.  
-2. Learn the different types of selectors, including element, class, and ID selectors.  
-3. Be able to target elements effectively with CSS selectors.  
-4. Get a basic understanding of how to apply styles using properties.  
+#### **Learning Objectives**  
+
+By the end of this lesson, learners will be able to:  
+
+- **Explain** what CSS selectors are and how they target HTML elements.  
+- **Differentiate** between various types of selectors, including element, class, and ID selectors.  
+- **Use** CSS selectors to effectively target elements in a webpage.  
+- **Apply** styles to elements using CSS properties.  
 
 ---
 

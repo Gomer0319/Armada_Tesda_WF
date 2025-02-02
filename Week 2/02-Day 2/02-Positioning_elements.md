@@ -1,10 +1,12 @@
 ### **Mastering Positioning in CSS**
 
-#### **Developmental Outcomes**
-By the end of this lesson, learners will:
-1. Understand the different CSS positioning properties.
-2. Learn how and when to use various positioning methods.
-3. Apply positioning concepts to create dynamic and visually appealing layouts.
+#### **Learning Objectives**  
+
+By the end of this lesson, learners will be able to:  
+
+- **Describe** different CSS positioning properties.  
+- **Determine** when to use various positioning methods effectively.  
+- **Apply** positioning concepts to create dynamic and visually appealing layouts.  
 
 ---
 

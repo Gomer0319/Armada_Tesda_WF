@@ -1,14 +1,14 @@
-
-
 ### **Adding Style: Fonts, Colors, and Sizes**
 
-#### **Developmental Outcome**  
-By the end of this lesson, learners will:  
-1. Understand how to style text with properties like font-family, font-size, and color.  
-2. Be able to apply background colors and adjust text and background contrast for better readability.  
-3. Learn how to use units (e.g., px, em, rem) for font sizes and spacing.  
-4. Understand the practical use cases of common CSS properties for fonts, colors, and sizes.  
+#### **Learning Objectives**  
 
+By the end of this lesson, learners will be able to:  
+
+- **Use** CSS properties like `font-family`, `font-size`, and `color` to style text.  
+- **Apply** background colors and adjust text-background contrast to enhance readability.  
+- **Utilize** different units (e.g., px, em, rem) for font sizes and spacing.  
+- **Identify** practical use cases for common CSS properties related to fonts, colors, and sizes.  
+  
 ---
 
 #### **Bringing Your Webpage to Life**  

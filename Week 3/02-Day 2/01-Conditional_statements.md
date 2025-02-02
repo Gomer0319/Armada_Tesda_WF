@@ -1,10 +1,12 @@
 ### **Exploring Conditional Statements**
 
-#### **Developmental Outcomes:**  
-By the end of this lesson, trainees will be able to:  
-1. Use `if`, `else if`, and `else` statements to handle conditions in their programs.  
-2. Apply `switch` statements to simplify multi-condition checks.  
-3. Leverage the ternary operator for concise decision-making in simple scenarios.  
+**Learning Objectives:**
+
+By the end of this lesson, trainees will be able to:
+
+1. Use if, else if, and else statements to handle conditions in their programs.
+2. Apply switch statements to simplify multi-condition checks.
+3. Use the ternary operator for concise decision-making in simple scenarios.
 
 ---
 

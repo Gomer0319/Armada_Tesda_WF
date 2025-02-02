@@ -1,11 +1,13 @@
 ### **CSS Specificity: Mastering Rule Prioritization**
 
-#### **Developmental Outcomes**  
-By the end of this lesson, learners will:  
-1. Understand what CSS specificity is and why it matters.  
-2. Learn how CSS prioritizes rules when multiple selectors target the same element.  
-3. Practice calculating specificity values to resolve conflicts in CSS styles.  
-4. Apply best practices to write clean and maintainable CSS.  
+**Learning Objectives:**
+
+By the end of this lesson, learners will:
+
+- Define CSS specificity and explain its importance.
+- Describe how CSS prioritizes rules when multiple selectors target the same element.
+- Calculate specificity values to resolve conflicts in CSS styles.
+- Apply best practices to write clean and maintainable CSS.
 
 ---
 

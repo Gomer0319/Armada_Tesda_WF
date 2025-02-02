@@ -1,11 +1,13 @@
 ### **Unboxing the Display Property: Inline, Block, and Inline-Block**
 
-#### **Developmental Outcomes**  
-By the end of this lesson, learners will:  
-1. Understand the concept of the `display` property in CSS.  
-2. Differentiate between `inline`, `block`, and `inline-block` behaviors.  
-3. Identify default `display` properties for common HTML elements.  
-4. Recognize use cases for `inline-block` and how it bridges the gap between `inline` and `block`.  
+#### **Learning Objectives**  
+
+By the end of this lesson, learners will be able to:  
+
+- **Explain** the concept of the `display` property in CSS.  
+- **Differentiate** between `inline`, `block`, and `inline-block` behaviors.  
+- **Identify** the default display properties of common HTML elements.  
+- **Determine** when to use `inline-block` and how it bridges the gap between `inline` and `block`.  
 
 ---
 

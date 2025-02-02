@@ -1,10 +1,12 @@
 ### **Lesson: Unlocking the Magic of JavaScript in Your Web Pages**  
 
-#### **Developmental Outcomes:**  
-By the end of this lesson, trainees will be able to:  
-1. Understand the key problems JavaScript solves in web development.  
-2. Recognize the unique roles of HTML, CSS, and JavaScript in creating dynamic, interactive web pages.  
-3. Add JavaScript to an HTML document using inline, internal, and external methods.  
+#### **Learning Objectives:**
+
+By the end of this lesson, trainees will be able to:
+
+1. Identify the key problems JavaScript solves in web development.
+2. Describe the unique roles of HTML, CSS, and JavaScript in creating dynamic, interactive web pages.
+3. Add JavaScript to an HTML document using inline, internal, and external methods.
 
 ---
 

@@ -1,9 +1,11 @@
 ### **Variables in JavaScript - Storing Information, Simplifying Logic**
 
-#### **Developmental Outcomes:**
+#### **Learning Objectives:**
+
 By the end of this lesson, trainees will be able to:
-1. Understand the purpose of variables in programming.
-2. Recognize the difference between `var`, `let`, and `const` and their best use cases.
+
+1. Define the purpose of variables in programming.
+2. Distinguish between var, let, and const, and identify their best use cases.
 3. Declare, initialize, and use variables effectively in JavaScript code.
 
 ---

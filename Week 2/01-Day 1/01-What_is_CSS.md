@@ -1,11 +1,15 @@
 ### **CSS: Bringing Style to the Web**
 
-#### **Developmental Outcome**  
-By the end of this lesson, learners will:  
-1. Understand the purpose and importance of CSS in web development.  
-2. Learn the basic syntax of CSS and how it works to style HTML elements.  
-3. Discover how to apply CSS to a webpage in different ways (inline, internal, and external).  
-4. Recognize how CSS solves design challenges and enhances the user experience.  
+#### **Learning Objectives**  
+
+By the end of this lesson, learners will be able to:  
+
+- **Explain** the purpose and importance of CSS in web development.  
+- **Describe** the basic syntax of CSS and how it styles HTML elements.  
+- **Apply** CSS to a webpage using inline, internal, and external styles.  
+- **Analyze** how CSS addresses design challenges and improves user experience.  
+
+This version ensures clarity, actionability, and measurable outcomes. Let me know if you need any refinements!
 
 ---
 

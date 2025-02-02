@@ -1,11 +1,13 @@
 ### **Unlocking the Power of Functions in JavaScript**
 
-#### **Developmental Outcomes:**  
-By the end of this lesson, trainees will be able to:  
-1. Define functions using the `function` keyword.  
-2. Pass information to functions using parameters.  
-3. Retrieve values from functions using the `return` statement.  
-4. Call functions in their code to perform tasks.  
+#### **Learning Objectives:**
+
+By the end of this lesson, trainees will be able to:
+
+- Define functions using the function keyword.
+- Pass information to functions using parameters.
+- Retrieve values from functions using the return statement.
+- Call functions in their code to perform tasks.
 
 ---
 

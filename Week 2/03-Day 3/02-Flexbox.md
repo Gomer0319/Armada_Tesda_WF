@@ -1,11 +1,13 @@
 ### **Flexible and Functional: Mastering Flexbox for Layouts**
 
-#### **Developmental Outcomes**  
-By the end of this lesson, learners will:  
-1. Understand what Flexbox is and the problems it solves.  
-2. Learn the basic structure and behavior of Flexbox.  
-3. Explore common properties used with Flexbox for effective layouts.  
-4. Apply Flexbox to solve real-world layout challenges.
+#### **Learning Objectives**  
+
+By the end of this lesson, learners will be able to:  
+
+- **Explain** what Flexbox is and the layout problems it solves.  
+- **Describe** the basic structure and behavior of Flexbox.  
+- **Utilize** common Flexbox properties to create effective layouts.  
+- **Apply** Flexbox to solve real-world layout challenges.  
 
 ---
 
@@ -157,6 +159,8 @@ Example:
      height: 100vh;
    }
    ```
+
+> For more visual examples, check out [Codepen Flexbox Examples](https://codepen.io/enxaneta/full/adLPwv/).
 
 ---
 

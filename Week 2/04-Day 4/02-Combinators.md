@@ -1,10 +1,10 @@
 ### **Lesson: Combining Forces: Understanding CSS Combinators**
 
-#### **Developmental Outcomes**  
-By the end of this lesson, learners will:  
-1. Understand what CSS combinators are and why they are used.  
-2. Learn the four most commonly used CSS combinators.  
-3. Apply combinators to target specific elements efficiently.  
+#### **Learning Objectives**
+By the end of this lesson, learners will:
+1. Define CSS combinators and explain their purpose.
+2. Identify the four most commonly used CSS combinators.
+3. Apply combinators to target specific elements efficiently.
 
 ---
 

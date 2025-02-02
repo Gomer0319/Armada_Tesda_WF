@@ -164,6 +164,8 @@ Standardized code improves maintainability and prevents issues across browsers.
 **Best Practice:**
 - Use lowercase for tags and attributes.
 - Maintain consistent indentation (2 or 4 spaces).
+- Choose class and ID names that reflect the element’s purpose or content (e.g., .btn-primary, .header-main).
+- Minimize class usage; apply only necessary classes and avoid adding multiple classes to a single element unless absolutely required.
 
 **Example:**
 ```html

@@ -1,12 +1,12 @@
 ### **Structuring for Success: Mastering Layouts and Techniques**
 
-#### **Developmental Outcomes**
-By the end of this lesson, learners will:
-1. Understand the importance of proper layout in web design.
-2. Learn the differences between fixed, fluid, and responsive layouts.
-3. Identify key layout techniques and when to use them.
-4. Use tools like Balsamiq or Figma for planning layouts.
-5. Apply previous concepts like the Box Model, Positioning, and Display Properties to create organized and effective layouts.
+#### **Learning Objectives**  
+By the end of this lesson, learners will be able to:  
+- **Explain** the importance of proper layout in web design.  
+- **Compare** fixed, fluid, and responsive layouts.  
+- **Identify** key layout techniques and determine when to use them.  
+- **Utilize** tools like Balsamiq or Figma to plan layouts.  
+- **Apply** concepts like the Box Model, Positioning, and Display Properties to create organized and effective layouts.  
 
 ---
 

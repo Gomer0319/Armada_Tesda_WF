@@ -1,10 +1,12 @@
 ### **(Extra) Mastering Fluid Layouts with CSS Units**  
 
-#### **Developmental Outcomes:**  
-By the end of this lesson, trainees will be able to:  
-1. Distinguish between different CSS units of measure, such as `%`, `em`, and `rem`.  
-2. Understand the role of relative units in creating fluid and responsive designs.  
-3. Use `%`, `em`, and `rem` effectively for fluid layouts while considering best practices.  
+#### **Learning Objectives:**
+
+By the end of this lesson, trainees will be able to:
+
+- Identify the differences between CSS units of measure (%), em, and rem.
+- Describe the role of relative units in creating fluid and responsive designs.
+- Apply %, em, and rem to create fluid layouts while following best practices.
 
 ---
 

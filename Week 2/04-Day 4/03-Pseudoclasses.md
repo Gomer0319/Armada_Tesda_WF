@@ -1,9 +1,11 @@
 ### **Pseudo-Classes to Style Beyond the Basics**
 
-#### **Developmental Outcomes**
+**Learning Objectives:**
+
 By the end of this lesson, learners will:
-1. Understand what pseudo-classes are and the problems they solve.
-2. Learn commonly used pseudo-classes and their use cases.
+
+1. Define pseudo-classes and explain the problems they solve.
+2. Identify commonly used pseudo-classes and their use cases.
 3. Apply pseudo-classes to enhance user interaction and design responsiveness.
 
 ---

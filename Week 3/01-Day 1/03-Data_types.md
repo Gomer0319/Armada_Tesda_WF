@@ -1,11 +1,13 @@
 ### **Unpacking JavaScript Data Types – The Building Blocks of Logic**  
 
-#### **Developmental Outcomes:**  
-By the end of this lesson, trainees will be able to:  
-1. Identify the various data types in JavaScript and their purposes.  
-2. Understand the difference between primitive and reference data types.  
-3. Use the `typeof` operator to inspect data types.  
-4. Apply data types effectively in solving real-world problems.  
+#### **Learning Objectives:**
+
+By the end of this lesson, trainees will be able to:
+
+1. Identify the various data types in JavaScript and explain their purposes.
+2. Differentiate between primitive and reference data types.
+3. Use the `typeof` operator to inspect data types.
+4. Apply data types effectively to solve real-world problems.
 
 ---
 

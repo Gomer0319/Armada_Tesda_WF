@@ -1,9 +1,11 @@
 ### **(Extra) Exploring Color Formats and Using Shorthand Values**
 
-#### **Developmental Outcome**  
-By the end of this lesson, learners will:  
-1. Understand different color formats used in CSS (Hex, RGB, RGBA).  
-2. Learn how to use shorthand values for basic CSS properties, including border shorthand.  
+#### **Learning Objectives**  
+
+By the end of this lesson, learners will be able to:  
+
+1. **Differentiate** between various color formats in CSS, including Hex, RGB, and RGBA.  
+2. **Apply** shorthand values for basic CSS properties, including border shorthand, to simplify styling.  
 
 ---
 

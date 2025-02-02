@@ -1,10 +1,12 @@
 ### **Lesson: Understanding the Box Model**
 
-#### **Developmental Outcomes**
-By the end of this lesson, learners will:
-1. Understand the concept of the CSS Box Model.
-2. Visualize how elements occupy space on a webpage.
-3. Identify the components of the Box Model and their roles in layout design.
+#### **Learning Objectives**  
+
+By the end of this lesson, learners will be able to:  
+
+- **Explain** the concept of the CSS Box Model.  
+- **Illustrate** how elements occupy space on a webpage.  
+- **Identify** the components of the Box Model (content, padding, border, and margin) and their roles in layout design.  
 
 ---
 <add a short video explaining the concept of the box model>
