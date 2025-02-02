@@ -1,10 +1,11 @@
 ### **Common Tags: Building the Foundations of Web Content**
 
-#### **Developmental Outcome**  
-By the end of this lesson, learners will:  
-1. Understand the purpose and usage of key HTML tags such as `<h1>`, `<p>`, `<a>`, `<img>`, and `<div>`.  
-2. Recognize the importance of proper tagging for accessibility and SEO.  
-3. Be able to apply these tags to create meaningful, accessible, and well-structured web content.
+### **Learning Objectives**  
+By the end of this lesson, learners will be able to:  
+
+1. Identify the purpose and function of key HTML tags such as `<h1>`, `<p>`, `<a>`, `<img>`, and `<div>`.  
+2. Explain how proper tagging enhances accessibility and SEO.  
+3. Use these HTML tags to structure and create accessible, well-organized web content.
 
 ---
 

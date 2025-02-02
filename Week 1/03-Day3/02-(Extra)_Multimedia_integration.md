@@ -1,12 +1,13 @@
 ### **(Extra) Multimedia Integration: Audio and Video**
 
-#### **Developmental Outcome**  
-By the end of this lesson, learners will:  
-1. Understand how to embed audio and video content using HTML.  
-2. Learn about key attributes for controlling multimedia playback.  
-3. Be able to create engaging webpages with audio and video elements.
+#### **Learning Objectives**  
+By the end of this lesson, learners will be able to:  
 
----
+1. Embed audio and video content using HTML `<audio>` and `<video>` elements.  
+2. Utilize key attributes (e.g., `controls`, `autoplay`, `loop`, `muted`) to manage multimedia playback.  
+3. Integrate audio and video elements to create engaging and accessible webpages.
+
+--- 
 
 #### **Bringing Webpages to Life**  
 

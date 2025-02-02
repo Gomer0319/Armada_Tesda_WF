@@ -1,10 +1,11 @@
 ### **Understanding Forms and Their Elements in HTML**
 
-#### **Developmental Outcome**
-By the end of this lesson, learners will:
-1. Understand the purpose of HTML forms and why they are crucial for user interaction.
-2. Learn about common form elements and their use cases.
-3. Be able to create basic forms, collect input data, and submit it using HTML forms.
+#### **Learning Objectives**  
+By the end of this lesson, learners will be able to:  
+
+1. Explain the purpose of HTML forms and their role in user interaction.  
+2. Identify common form elements (e.g., `<input>`, `<label>`, `<select>`, `<textarea>`, `<button>`) and describe their use cases.  
+3. Construct a basic HTML form to collect user input and submit data.
 
 ---
 

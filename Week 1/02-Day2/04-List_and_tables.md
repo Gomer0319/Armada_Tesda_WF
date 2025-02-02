@@ -1,10 +1,11 @@
 ### **Lists and Tables: Organizing Content Effectively**
 
-#### **Developmental Outcome**
-By the end of this lesson, learners will:
-1. Understand the purpose and usage of HTML lists (`<ul>`, `<ol>`, and `<li>`) for organizing information.
-2. Learn how to create and format HTML tables using `<table>`, `<tr>`, `<th>`, and `<td>` tags.
-3. Recognize when to use lists versus tables for better usability and accessibility.
+#### **Learning Objectives**  
+By the end of this lesson, learners will be able to:  
+
+1. Describe the purpose and function of HTML list elements (`<ul>`, `<ol>`, and `<li>`) for organizing information.  
+2. Construct and format HTML tables using `<table>`, `<tr>`, `<th>`, and `<td>` tags.  
+3. Determine when to use lists versus tables to enhance usability and accessibility.
 
 ---
 
