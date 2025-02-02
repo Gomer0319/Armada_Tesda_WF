@@ -81,23 +81,37 @@ The `<img>` tag displays images on a webpage and includes attributes like `src` 
 - The `src` attribute specifies the image’s location.  
 - The `alt` attribute describes the image, crucial for accessibility.  
 
-**How to Add Image Sources:**  
-1. **Using a URL:** If the image is hosted online, provide the full URL:  
+#### How to Add Image Sources:
+Images can be linked using different types of paths. Understanding these differences helps ensure that images load correctly no matter where your website is hosted or how your file structure is organized.
+
+1. **Absolute Path**: An absolute path includes the full URL or location of the image, starting from the root of the web or file system.
+
+   - **Example (absolute path)**:
    ```html
-   <img src="https://www.example.com/images/dog.jpg" alt="A cute dog">
+   <img src="https://www.example.com/images/pic.jpg" alt="A beautiful landscape">
    ```
-2. **Using a Local Folder:** If the image is saved in the same directory as your HTML file, simply use the filename:  
+   - **Explanation**: The path specifies the full URL of the image hosted on an external server. This approach will work anywhere as long as the image is accessible from the URL.
+
+2. **Relative Path**: A relative path specifies the location of the image relative to the current webpage’s location in the project. 
+
+   - **Example (same directory)**:
    ```html
-   <img src="dog.jpg" alt="A cute dog">
+   <img src="pic.jpg" alt="A beautiful landscape">
    ```
-3. **Using a Subfolder:** If the image is inside a subfolder, specify the folder path:  
+   - **Explanation**: The image is in the same folder as the HTML file. Since no folder name is specified, the browser looks in the current directory.
+
+   - **Example (subfolder)**:
    ```html
-   <img src="images/dog.jpg" alt="A cute dog">
+   <img src="images/pic.jpg" alt="A beautiful landscape">
    ```
-4. **Going Up a Directory:** If the image is in a parent folder, use `../` to navigate up:  
+   - **Explanation**: The image is in a subfolder called `images`. The path tells the browser to look inside that folder for the image file.
+
+   - **Example (parent folder)**:
    ```html
-   <img src="../assets/dog.jpg" alt="A cute dog">
+   <img src="../pic.jpg" alt="A beautiful landscape">
    ```
+   - **Explanation**: The image is in the parent folder of the HTML file. The `../` tells the browser to move one directory up before looking for the image.
+
 
 **Why the `alt` Attribute Matters:**  
 1. **Accessibility:** Screen readers narrate the `alt` text for visually impaired users.  
@@ -136,3 +150,10 @@ The `<div>` tag is a container used to group elements together, often for stylin
 - **Image sources** can be from URLs, local folders, or subdirectories.  
 - **Divs** help group elements but should be used sparingly to maintain clean and semantic HTML.
 
+
+
+Yes, you can absolutely integrate the idea of absolute and relative paths into this lesson! Since the lesson already covers key HTML tags and their purpose, incorporating the concept of paths for linking images will build on that foundational knowledge.
+
+Here’s how you could seamlessly add that content into your lesson:
+
+---
