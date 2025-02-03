@@ -1,6 +1,6 @@
 ### **Understanding Scope and Closures in JavaScript**
 
-**Learning Objectives:**
+#### **Learning Objectives:**
 
 By the end of this lesson, trainees will be able to:
 

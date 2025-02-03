@@ -1,11 +1,13 @@
 ### **Exploring DOM Manipulation – Making Web Pages Interactive**
 
-#### **Developmental Outcomes:**  
+#### **Learning Objectives**  
+
 By the end of this lesson, trainees will be able to:  
-1. Understand the Document Object Model (DOM) and its role in web development.  
-2. Access HTML elements using JavaScript methods.  
-3. Modify the content and structure of HTML elements dynamically.  
-4. Use event listeners to make web pages interactive.  
+
+- **Explain** the Document Object Model (DOM) and its role in web development.  
+- **Access** HTML elements using JavaScript methods.  
+- **Modify** the content and structure of HTML elements dynamically.  
+- **Implement** event listeners to create interactive web pages.  
 
 ---
 

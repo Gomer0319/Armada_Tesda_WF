@@ -1,10 +1,11 @@
 ### **Navigating the DOM: How to Traverse and Find Elements**
 
-#### **Developmental Outcomes:**
-By the end of this lesson, trainees will be able to:
-1. Use methods to select and traverse the DOM.
-2. Understand how to access parent, child, and sibling elements.
-3. Modify elements through traversal.
+#### **Learning Objectives:**  
+By the end of this lesson, trainees will be able to:  
+
+1. **Utilize** methods to select and traverse the DOM.  
+2. **Identify** and **access** parent, child, and sibling elements in the DOM hierarchy.  
+3. **Modify** elements dynamically using DOM traversal techniques.  
 
 ---
 
