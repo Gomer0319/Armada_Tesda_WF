@@ -1,11 +1,12 @@
 ### **Bootstrap: Simplifying Responsive Design**
 
-#### **Developmental Outcomes:**
-By the end of this lesson, trainees will be able to:
-1. Understand what **Bootstrap** is and its role in web development.
-2. Set up **Bootstrap** in a project using a **CDN** or by downloading the source files.
-3. Use common Bootstrap components and utilities to create responsive layouts.
-4. Identify use cases where **Bootstrap** is most effective.
+### **Learning Objectives:**  
+By the end of this lesson, trainees will be able to:  
+
+1. **Explain** what **Bootstrap** is and its role in web development.  
+2. **Set up** **Bootstrap** in a project using a **CDN** or downloaded source files.  
+3. **Utilize** common Bootstrap components and utilities to build responsive layouts.  
+4. **Determine** when to use **Bootstrap** for efficient and scalable web design.  
 
 ---
 

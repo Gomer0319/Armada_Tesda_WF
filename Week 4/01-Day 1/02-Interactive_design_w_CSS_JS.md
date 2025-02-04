@@ -1,11 +1,12 @@
 ### **Combining CSS and JavaScript for Interactive Design**
 
-#### **Developmental Outcomes:**  
+### **Learning Objectives:**  
 By the end of this lesson, trainees will be able to:  
-1. Understand how CSS and JavaScript work together to create interactive web designs.  
-2. Use JavaScript to manipulate CSS properties dynamically.  
-3. Implement event-driven changes in CSS through JavaScript.  
-4. Build basic interactive features like hover effects, modals, and dropdowns.
+
+1. **Describe** how CSS and JavaScript work together to create interactive web designs.  
+2. **Manipulate** CSS properties dynamically using JavaScript.  
+3. **Implement** event-driven CSS changes through JavaScript.  
+4. **Create** basic interactive features such as hover effects, modals, and dropdowns.  
 
 ---
 

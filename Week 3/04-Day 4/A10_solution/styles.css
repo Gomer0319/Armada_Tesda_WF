@@ -50,6 +50,7 @@ h1 {
 
 
 li {
+    display: flex;
     list-style-type: none;
     padding: 8px;
     border-radius: 24px;

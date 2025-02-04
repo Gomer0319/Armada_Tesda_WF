@@ -1,10 +1,11 @@
 ### **(Extra) The Forgotten Console.log(): Your Secret Debugging Sidekick**
 
-#### **Developmental Outcomes:**
-By the end of this lesson, trainees will:
-1. Understand the importance of `console.log()` and its role in debugging.
-2. Learn practical use cases of `console.log()` in JavaScript, particularly in event listeners and DOM manipulation.
-3. Gain confidence in using `console.log()` as a tool for writing and debugging code effectively.
+#### **Learning Objectives:**  
+By the end of this lesson, trainees will be able to:  
+
+1. **Explain** the importance of `console.log()` and its role in debugging.  
+2. **Use** `console.log()` in practical scenarios, including event listeners and DOM manipulation.  
+3. **Apply** `console.log()` effectively to test and debug JavaScript code with confidence.  
 
 ---
 

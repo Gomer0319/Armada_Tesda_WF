@@ -1,11 +1,12 @@
 ### **Mastering Flexbox and Grid in Web Development**
 
-#### **Developmental Outcomes:**  
+#### **Learning Objectives:**  
 By the end of this lesson, trainees will be able to:  
-1. Understand the key differences between **Flexbox** and **CSS Grid**.  
-2. Implement **CSS Grid** for advanced layout designs.  
-3. Choose when to use **Flexbox** or **Grid** based on the layout needs.  
-4. Combine both **Flexbox** and **Grid** for flexible and responsive web design.
+
+1. **Compare** the key differences between **Flexbox** and **CSS Grid**.  
+2. **Implement** **CSS Grid** to create advanced layout designs.  
+3. **Determine** when to use **Flexbox** or **Grid** based on specific layout requirements.  
+4. **Combine** **Flexbox** and **Grid** to build flexible and responsive web designs.  
 
 ---
 
