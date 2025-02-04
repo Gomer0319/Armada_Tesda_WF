@@ -1,11 +1,12 @@
 ### **Introduction to jQuery**
 
-#### **Developmental Outcomes**
-By the end of this lesson, you will:
-1. Understand what jQuery is and why it’s used.
-2. Learn how to set up jQuery in your project.
-3. Explore common features like DOM manipulation, event handling, and animations.
-4. Understand the problems jQuery solves and its common use cases.
+#### **Learning Objectives**  
+By the end of this lesson, trainees will be able to:  
+
+1. **Explain** what jQuery is and its purpose in web development.  
+2. **Set up** jQuery in a project using a **CDN** or a local file.  
+3. **Utilize** jQuery for **DOM manipulation, event handling, and animations**.  
+4. **Identify** common use cases where jQuery simplifies JavaScript tasks.  
 
 ---
 

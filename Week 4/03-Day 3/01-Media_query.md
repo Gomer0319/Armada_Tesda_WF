@@ -1,11 +1,12 @@
 ### **Mastering Media Queries – Adapting Your Website to Every Screen**
 
-#### **Developmental Outcomes:**
-By the end of this lesson, trainees will be able to:
-1. Understand the purpose and function of media queries in CSS.
-2. Identify common screen resolutions and their use cases in media queries.
-3. Write media queries to create responsive designs for multiple devices.
-4. Recognize the role of responsive design in improving user experience.
+#### **Learning Objectives:**  
+By the end of this lesson, trainees will be able to:  
+
+1. **Explain** the purpose and function of media queries in CSS.  
+2. **Identify** common screen resolutions and their relevance in media queries.  
+3. **Write** media queries to create responsive designs for various devices.  
+4. **Evaluate** how responsive design enhances user experience.  
 
 ---
 

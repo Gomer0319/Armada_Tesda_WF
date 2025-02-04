@@ -1,10 +1,11 @@
 ### **LESS: Making CSS Smarter and More Manageable**
 
-#### **Developmental Outcomes**
-By the end of this lesson, you will understand:
-- What LESS is and why it’s useful.
-- How LESS simplifies CSS.
-- How to set up and use LESS in your projects.
+#### **Learning Objectives**  
+By the end of this lesson, trainees will be able to:  
+
+- **Explain** what **LESS** is and its benefits in web development.  
+- **Describe** how **LESS** simplifies CSS with features like variables and nesting.  
+- **Set up** and **use** **LESS** in a project effectively.  
 
 ---
 

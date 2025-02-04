@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>jQuery Animations</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <style>
+    .content {
+      width: 200px;
+      height: 200px;
+      background-color: lightblue;
+      margin: 20px;
+      display: none;
+    }
+    .button {
+      padding: 10px;
+      background-color: #4CAF50;
+      color: white;
+      cursor: pointer;
+      border: none;
+      margin: 10px;
+    }
+    .animated-box {
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      background-color: coral;
+      margin: 20px;
+      position: relative;
+    }
+  </style>
+</head>
+<body>
+  
+  <button class="button" id="fadeButton">Click to Fade In/Out</button>
+  <div class="content" id="contentBox"></div>
+
+  <button class="button" id="slideButton">Click to Slide Down/Up</button>
+  <div class="content" id="slideContent"></div>
+
+  <button class="button" id="animateButton">Click to Animate</button>
+  <div class="animated-box" id="animatedBox"></div>
+
+  <script>
+    $(document).ready(function() {
+      // Fade In/Out Effect
+      $("#fadeButton").click(function() {
+        $("#contentBox").fadeToggle();
+      });
+
+      // Slide Down/Up Effect
+      $("#slideButton").click(function() {
+        $("#slideContent").slideToggle();
+      });
+
+      // Custom Animation
+      $("#animateButton").click(function() {
+        $("#animatedBox").animate({
+          width: "+=50px",
+          height: "+=50px",
+          left: "+=20px",
+          backgroundColor: "#ffcc00"
+        }, 1000);
+      });
+    });
+  </script>
+  
+</body>
+</html>
